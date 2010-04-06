@@ -2,3 +2,4 @@
 /apertium-pl-uk.pl-uk.dix -text
 /apertium-pl-uk.uk.dix -text
 dev/interwiki.pl-uk -text
+dev/to-translate -text
