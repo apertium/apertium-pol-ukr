@@ -55,13 +55,17 @@
     <sdef n="psv"    c=""/>
     <sdef n="pprs"   c=""/>
     <sdef n="act"    c=""/>
-    <sdef n="pri"    c=""/>
+    <sdef n="pres"    c=""/>
     <sdef n="num"    c=""/>
     <sdef n="np"     c=""/>
     <sdef n="top"    c=""/>
     <sdef n="ant"    c=""/>
     <sdef n="cog"    c=""/>
     <sdef n="hyd"    c=""/>
+    <sdef n="cpd"    c=""/>
+    <sdef n="sint"   c=""/>
+    <sdef n="comp"   c=""/>
+    <sdef n="sup"    c=""/>
   </sdefs>  
   <pardefs>
     <pardef n="про__pr">
@@ -3894,7 +3898,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="англійськ/ий__adj_BASE-m">
+    <pardef n="BASE__англійський">
       <e>
         <p>
           <l>ий</l>
@@ -3949,8 +3953,6 @@
           <r><s n="m"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-    </pardef>
-    <pardef n="англійськ/ий__adj_BASE-f">
       <e>
         <p>
           <l>а</l>
@@ -3993,8 +3995,6 @@
           <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-    </pardef>
-    <pardef n="англійськ/ий__adj_BASE-nt">
       <e>
         <p>
           <l>е</l>
@@ -4043,8 +4043,6 @@
           <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-    </pardef>
-    <pardef n="англійськ/ий__adj_BASE-pl">
       <e>
         <p>
           <l>их</l>
@@ -4095,10 +4093,52 @@
       </e>
     </pardef>
     <pardef n="англійськ/ий__adj">
-      <e><p><l></l><r>ий<s n="adj"/></r></p><par n="англійськ/ий__adj_BASE-m"/></e>
-      <e><p><l></l><r>ий<s n="adj"/></r></p><par n="англійськ/ий__adj_BASE-f"/></e>
-      <e><p><l></l><r>ий<s n="adj"/></r></p><par n="англійськ/ий__adj_BASE-nt"/></e>
-      <e><p><l></l><r>ий<s n="adj"/></r></p><par n="англійськ/ий__adj_BASE-pl"/></e>
+      <e>
+        <p>
+          <l></l>
+          <r>ий<s n="adj"/></r>
+        </p>
+        <par n="BASE__англійський"/>
+      </e>
+      <e>
+        <p>
+          <l>о</l>
+          <r>ий<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="нов/ий__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ий<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__англійський"/>
+      </e>
+      <e>
+        <p>
+          <l>о</l>
+          <r>ий<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="вищ/ий__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="sint"/><s n="comp"/></r>
+        </p>
+        <par n="BASE__англійський"/>
+      </e>
+    </pardef>
+    <pardef n="найвищ/ий__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="sint"/><s n="comp"/></r>
+        </p>
+        <par n="BASE__англійський"/>
+      </e>
     </pardef>
     <pardef n="віскі__n">
       <e>
@@ -6282,37 +6322,37 @@
       <e>
         <p>
           <l>шу</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>шемо</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>шеш</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>шете</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ше</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>шуть</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -6460,42 +6500,41 @@
       <e>
         <p>
           <l>ую</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уємо</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уєш</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уєте</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ує</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ують</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
 
-  <!-- любити; люб -->
     <pardef n="люб/ити__vblex_imperf">
       <e>
         <p>
@@ -6530,37 +6569,37 @@
       <e>
         <p>
           <l>лю</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>имо</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>иш</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ите</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ить</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>лять</l>
-          <r>ити<s n="vblex"/><s n="imperf"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+          <r>ити<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -6738,7 +6777,11 @@
     <e lm="Головко"><i>Головк</i><par n="Ющенк/о__np"/></e>
     
     <e lm="Ла-Манш"><i>Ла-Манш</i><par n="Ла-Манш__np"/></e>
-    
+
+    <e lm="новий"><i>нов</i><par n="нов/ий__adj"/></e>
+    <e lm="новий"><p><l>новіш</l><r>новий</r></p><par n="вищ/ий__adj"/></e>
+    <e lm="новий"><p><l>найновіш</l><r>новий</r></p><par n="найвищ/ий__adj"/></e>
+
     <e lm="англійський"><i>англійськ</i><par n="англійськ/ий__adj"/></e>
     <e lm="шведський"><i>шведськ</i><par n="англійськ/ий__adj"/></e>
     <e lm="французький"><i>французьк</i><par n="англійськ/ий__adj"/></e>
