@@ -9,6 +9,10 @@
     <sdef n="nt"     c="средний"/>
     <sdef n="mf"     c="мужской/женский"/>
     <sdef n="ani"    c=""/>
+    <sdef n="mp"     c=""/>
+    <sdef n="ma"     c=""/>
+    <sdef n="mi"     c=""/>
+    <sdef n="np"     c=""/>
 
     <sdef n="sg"     c="однина"/>
     <sdef n="pl"     c="множина"/>
@@ -41,9 +45,17 @@
     <sdef n="pr"     c=""/>
     <sdef n="cnjcoo" c=""/>
     <sdef n="cnjsub" c=""/>
+    <sdef n="cnjadv" c=""/>
+    <sdef n="vblex"  c=""/>
+    <sdef n="imperf" c=""/>
+    <sdef n="perf"   c=""/>
+    <sdef n="num"    c=""/>
+    <sdef n="sint"   c=""/>
+    <sdef n="adv"    c=""/>
+    <sdef n="pos"    c=""/>
+    <sdef n="top"    c=""/>
   </sdefs>
-  <pardefs/>
-  <section id="main" type="conditional">
+  <section id="main" type="standard">
     <e><p><l>jeśli<s n="cnjadv"/></l><r>якщо<s n="cnjadv"/></r></p></e>
     <e><p><l>po<b/>tym,<b/>jak<s n="cnjadv"/></l><r>після<b/>того,<b/>як<s n="cnjadv"/></r></p></e>
     <e><p><l>tak<b/>jak<s n="cnjadv"/></l><r>так<b/>як<s n="cnjadv"/></r></p></e>

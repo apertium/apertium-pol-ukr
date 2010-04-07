@@ -5,6 +5,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-pl-cs.post-pl.dix -text
 /apertium-pl-uk.pl-uk.dix -text
 /apertium-pl-uk.pl-uk.t1x -text
 /apertium-pl-uk.pl-uk.t2x -text
