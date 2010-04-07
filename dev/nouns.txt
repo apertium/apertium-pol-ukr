@@ -20,7 +20,7 @@
      <e><p><l>analiza<s n="n"/><s n="f"/></l><r>аналіз<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>anioł<s n="n"/><s n="mp"/></l><r>ангел<s n="n"/><s n="ani"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>Anglik<s n="n"/><s n="mp"/></l><r>англієць<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
-     <e><p><l>Anglia<s n="n"/><s n="f"/></l><r>Англія<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Англія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>anegdota<s n="n"/><s n="f"/></l><r>анекдот<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>aparat<s n="n"/><s n="mi"/></l><r>апарат<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>apetyt<s n="n"/><s n="mi"/></l><r>апетит<s n="n"/><s n="m"/></r></p></e>
@@ -35,7 +35,7 @@
      <e><p><l>atak<s n="n"/><s n="mi"/></l><r>атака<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>atmosfera<s n="n"/><s n="f"/></l><r>атмосфера<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>аеродром<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>port lotniczy<s n="n"/><s n="mi"/></l><r>аеропорт<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>port<b/>lotniczy<s n="n"/><s n="mi"/></l><r>аеропорт<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>baba<s n="n"/><s n="f"/></l><r>баба<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ważka<s n="n"/><s n="f"/></l><r>бабка<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>motyl<s n="n"/><s n="ma"/></l><r>метелик<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -74,7 +74,7 @@
      <e><p><l>bilet<s n="n"/><s n="mi"/></l><r>квиток<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>lornetka<s n="n"/><s n="f"/></l><r>бінокль<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>biografia<s n="n"/><s n="f"/></l><r>біографія<s n="n"/><s n="f"/></r></p></e>
-     <e><p><l>bój<s n="n"/><s n="mi"/></l><r>битва<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bitwa<s n="n"/><s n="f"/></l><r>битва<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>podziękowanie<s n="n"/><s n="nt"/></l><r>подяка<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>blask<s n="n"/><s n="mi"/></l><r>блиск<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>blin<s n="n"/><s n="mi"/></l><r>млинець<s n="n"/><s n="m"/></r></p></e>
@@ -131,7 +131,7 @@
      <e><p><l>wprowadzenie<s n="n"/><s n="nt"/></l><r>вступ<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>wdowa<s n="n"/><s n="f"/></l><r>вдова<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>resort<s n="n"/><s n="mi"/></l><r>відомство<s n="n"/><s n="nt"/></r></p></e>
-     <e><p><l>wiedźma<s n="n"/><s n="f"/></l><r>відьма<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wiedźma<s n="n"/><s n="f"/></l><r>відьма<s n="n"/><s n="ani"/><s n="f"/></r></p></e>
      <e><p><l>stulecie<s n="n"/><s n="nt"/></l><r>століття<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>powieka<s n="n"/><s n="f"/></l><r>повіка<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>mość<s n="n"/><s n="f"/></l><r>величність<s n="n"/><s n="f"/></r></p></e>
@@ -176,7 +176,7 @@
      <e><p><l>właściciel<s n="n"/><s n="mp"/></l><r>власник<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>władza<s n="n"/><s n="f"/></l><r>влада<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>wpływ<s n="n"/><s n="mi"/></l><r>вплив<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>wygląd zewnętrzny<s n="n"/><s n="mi"/></l><r>зовнішність<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wygląd<b/>zewnętrzny<s n="n"/><s n="mi"/></l><r>зовнішність<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>uwaga<s n="n"/><s n="f"/></l><r>увага<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>wnuk<s n="n"/><s n="mp"/></l><r>внук<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>woda<s n="n"/><s n="f"/></l><r>вода<s n="n"/><s n="f"/></r></p></e>
@@ -220,7 +220,7 @@
      <e><p><l>nieprzyjaciel<s n="n"/><s n="np"/></l><r>ворог<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>lekarz<s n="n"/><s n="mp"/></l><r>лікар<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>czas<s n="n"/><s n="mi"/></l><r>час<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>jeździec<s n="n"/><s n="mp"/></l><r>вершник<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+     <e><p><l>jeździec<s n="n"/><s n="mp"/></l><r>вершник<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>wszechświat<s n="n"/><s n="mi"/></l><r>всесвіт<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>błysk<s n="n"/><s n="mi"/></l><r>спалах<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>spotkanie<s n="n"/><s n="nt"/></l><r>зустріч<s n="n"/><s n="f"/></r></p></e>
@@ -375,7 +375,7 @@
      <e><p><l>godność<s n="n"/><s n="f"/></l><r>гідність<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dostęp<s n="n"/><s n="mi"/></l><r>доступ<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>dochód<s n="n"/><s n="mi"/></l><r>дохід<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>córka<s n="n"/><s n="f"/></l><r>дочка<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>córka<s n="n"/><s n="f"/></l><r>дочка<s n="n"/><s n="ani"/><s n="f"/></r></p></e>
      <e><p><l>dr<s n="n"/><s n=""/></l><r>др<s n="n"/><s n=""/></r></p></e>
      <e><p><l>bijatyka<s n="n"/><s n="f"/></l><r>бійка<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>smok<s n="n"/><s n=""/></l><r>дракон<s n="n"/><s n=""/></r></p></e>
@@ -398,8 +398,7 @@
      <e><p><l>oddech<s n="n"/><s n=""/></l><r>дихання<s n="n"/><s n=""/></r></p></e>
      <e><p><l>czart<s n="n"/><s n=""/></l><r>диявол<s n="n"/><s n=""/></r></p></e>
      <e><p><l>stryj<s n="n"/><s n=""/></l><r>дядько<s n="n"/><s n=""/></r></p></e>
-     <e><p><l>Żyd<s n="n"/><s n=""/></l><r>єврей<s n="n"/><s n=""/></r></p></e>
-     <e><p><l>europas<s n="n"/><s n=""/></l><r>європа<s n="n"/><s n=""/></r></p></e>
+     <e><p><l>Żyd<s n="n"/><s n="mp"/></l><r>єврей<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>jedzenie<s n="n"/><s n=""/></l><r>їда<s n="n"/><s n=""/></r></p></e>
      <e><p><l>jednostka<s n="n"/><s n=""/></l><r>одиниця<s n="n"/><s n=""/></r></p></e>
      <e><p><l>choinka<s n="n"/><s n=""/></l><r>ялинка<s n="n"/><s n=""/></r></p></e>
