@@ -9,7 +9,6 @@
         <e><p><l>ґ</l><r>g</r></p></e>
         <e><p><l>д</l><r>d</r></p></e>
         <e><p><l>е</l><r>e</r></p></e>
-        <e><p><l>ж</l><r>zh</r></p></e>
         <e><p><l>з</l><r>z</r></p></e>
         <e><p><l>и</l><r>y</r></p></e>
         <e><p><l>і</l><r>i</r></p></e>
@@ -24,6 +23,7 @@
         <e><p><l>т</l><r>t</r></p></e>
         <e><p><l>у</l><r>u</r></p></e>
         <e><p><l>ф</l><r>f</r></p></e>
+        <e><p><l>ж</l><r>zh</r></p></e>
         <e><p><l>х</l><r>kh</r></p></e>
         <e><p><l>ц</l><r>ts</r></p></e>
         <e><p><l>ч</l><r>ch</r></p></e>
@@ -38,7 +38,6 @@
         <e><p><l>Ґ</l><r>G</r></p></e>
         <e><p><l>Д</l><r>D</r></p></e>
         <e><p><l>Е</l><r>E</r></p></e>
-        <e><p><l>Ж</l><r>Zh</r></p></e>
         <e><p><l>З</l><r>Z</r></p></e>
         <e><p><l>И</l><r>Y</r></p></e>
         <e><p><l>І</l><r>I</r></p></e>
@@ -53,6 +52,7 @@
         <e><p><l>Т</l><r>T</r></p></e>
         <e><p><l>У</l><r>U</r></p></e>
         <e><p><l>Ф</l><r>F</r></p></e>
+        <e><p><l>Ж</l><r>Zh</r></p></e>
         <e><p><l>Х</l><r>Kh</r></p></e>
         <e><p><l>Ц</l><r>Ts</r></p></e>
         <e><p><l>Ч</l><r>Ch</r></p></e>
@@ -60,28 +60,7 @@
         <e><p><l>Щ</l><r>Shch</r></p></e>
       </pardef>
       <pardef n="common_allcaps">
-        <e><p><l>А</l><r>A</r></p></e>
-        <e><p><l>Б</l><r>B</r></p></e>
-        <e><p><l>В</l><r>V</r></p></e>
-        <e><p><l>Г</l><r>H</r></p></e>
-        <e><p><l>Ґ</l><r>G</r></p></e>
-        <e><p><l>Д</l><r>D</r></p></e>
-        <e><p><l>Е</l><r>E</r></p></e>
         <e><p><l>Ж</l><r>ZH</r></p></e>
-        <e><p><l>З</l><r>Z</r></p></e>
-        <e><p><l>И</l><r>Y</r></p></e>
-        <e><p><l>І</l><r>I</r></p></e>
-        <e><p><l>К</l><r>K</r></p></e>
-        <e><p><l>Л</l><r>L</r></p></e>
-        <e><p><l>М</l><r>M</r></p></e>
-        <e><p><l>Н</l><r>N</r></p></e>
-        <e><p><l>О</l><r>O</r></p></e>
-        <e><p><l>П</l><r>P</r></p></e>
-        <e><p><l>Р</l><r>R</r></p></e>
-        <e><p><l>С</l><r>S</r></p></e>
-        <e><p><l>Т</l><r>T</r></p></e>
-        <e><p><l>У</l><r>U</r></p></e>
-        <e><p><l>Ф</l><r>F</r></p></e>
         <e><p><l>Х</l><r>KH</r></p></e>
         <e><p><l>Ц</l><r>TS</r></p></e>
         <e><p><l>Ч</l><r>CH</r></p></e>
@@ -130,40 +109,63 @@
         <e><p><l>Ю</l><r>IU</r></p></e>
         <e><p><l>Я</l><r>IA</r></p></e>
       </pardef>
-      <pardef n="start_lower">
-        <e><i/><par n="common"/></e>
-        <e><i/><par n="start"/></e>
-      </pardef>
-      <pardef n="start_caps">
-        <e><i/><par n="common_caps"/></e>
-        <e><i/><par n="start_caps"/></e>
-      </pardef>
-      <pardef n="start_allcaps">
-        <e><i/><par n="common_allcaps"/></e>
-        <e><i/><par n="start_allcaps"/></e>
-      </pardef>
-      <pardef n="middle_lower">
-        <e><i/><par n="common"/></e>
-        <e><i/><par n="middle"/></e>
-      </pardef>
-      <pardef n="middle_caps">
-        <e><i/><par n="common_caps"/></e>
-        <e><i/><par n="middle_caps"/></e>
-      </pardef>
-      <pardef n="middle_allcaps">
-        <e><i/><par n="common_allcaps"/></e>
-        <e><i/><par n="middle_allcaps"/></e>
-      </pardef>
     </pardefs>
     <section id="translit-std" type="standard">
-      <e><par n="start_allcaps"/><par n="middle_allcaps"/></e>
+
+        <e><p><l>a</l><r>a</r></p></e>
+        <e><p><l>б</l><r>b</r></p></e>
+        <e><p><l>в</l><r>v</r></p></e>
+        <e><p><l>г</l><r>h</r></p></e>
+        <e><p><l>ґ</l><r>g</r></p></e>
+        <e><p><l>д</l><r>d</r></p></e>
+        <e><p><l>е</l><r>e</r></p></e>
+        <e><p><l>з</l><r>z</r></p></e>
+        <e><p><l>и</l><r>y</r></p></e>
+        <e><p><l>і</l><r>i</r></p></e>
+        <e><p><l>к</l><r>k</r></p></e>
+        <e><p><l>л</l><r>l</r></p></e>
+        <e><p><l>м</l><r>m</r></p></e>
+        <e><p><l>н</l><r>n</r></p></e>
+        <e><p><l>о</l><r>o</r></p></e>
+        <e><p><l>п</l><r>p</r></p></e>
+        <e><p><l>р</l><r>r</r></p></e>
+        <e><p><l>с</l><r>s</r></p></e>
+        <e><p><l>т</l><r>t</r></p></e>
+        <e><p><l>у</l><r>u</r></p></e>
+        <e><p><l>ф</l><r>f</r></p></e>
+
+        <e><p><l>А</l><r>A</r></p></e>
+        <e><p><l>Б</l><r>B</r></p></e>
+        <e><p><l>В</l><r>V</r></p></e>
+        <e><p><l>Г</l><r>H</r></p></e>
+        <e><p><l>Ґ</l><r>G</r></p></e>
+        <e><p><l>Д</l><r>D</r></p></e>
+        <e><p><l>Е</l><r>E</r></p></e>
+        <e><p><l>З</l><r>Z</r></p></e>
+        <e><p><l>И</l><r>Y</r></p></e>
+        <e><p><l>І</l><r>I</r></p></e>
+        <e><p><l>К</l><r>K</r></p></e>
+        <e><p><l>Л</l><r>L</r></p></e>
+        <e><p><l>М</l><r>M</r></p></e>
+        <e><p><l>Н</l><r>N</r></p></e>
+        <e><p><l>О</l><r>O</r></p></e>
+        <e><p><l>П</l><r>P</r></p></e>
+        <e><p><l>Р</l><r>R</r></p></e>
+        <e><p><l>С</l><r>S</r></p></e>
+        <e><p><l>Т</l><r>T</r></p></e>
+        <e><p><l>У</l><r>U</r></p></e>
+        <e><p><l>Ф</l><r>F</r></p></e>
+
+
+<!--
       <e><par n="start_caps"/><par n="middle_lower"/></e>
+      <e><par n="start_allcaps"/><par n="middle_allcaps"/></e>
       <e><par n="start_lower"/><par n="middle_lower"/></e>
+-->
+      <e><p><l>зг</l><r>zgh</r></p></e>
+      <e><p><l>Зг</l><r>Zgh</r></p></e>
+      <e><p><l>ЗГ</l><r>ZGH</r></p></e>
 
-      <e><par n="middle_lower"/><p><l>зг</l><r>zgh</r></p></e>
-      <e><par n="start_caps"/><p><l>зг</l><r>zgh</r></p></e>
-      <e><par n="start_allcaps"/><p><l>ЗГ</l><r>ZGH</r></p></e>
-
-      <e><p><l>'</l><r></r></p></e>
+      <e i="yes"><p><l>'</l><r></r></p></e>
     </section>
 </dictionary>
