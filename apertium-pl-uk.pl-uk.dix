@@ -88,9 +88,10 @@
     
     <e><p><l>kupować<s n="vblex"/><s n="imperf"/></l><r>купувати<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>kupić<s n="vblex"/><s n="perf"/></l><r>купити<s n="vblex"/><s n="perf"/></r></p></e>
-    <e><p><l>kochać<s n="vblex"/><s n="imperf"/></l><r>любити<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e r="LR"><p><l>kochać<s n="vblex"/><s n="imperf"/></l><r>кохати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e c="a też kochać"><p><l>lubić<s n="vblex"/><s n="imperf"/></l><r>любити<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kochać<s n="vblex"/><s n="imperf"/></l><r>кохати<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>śpiewać<s n="vblex"/><s n="imperf"/></l><r>співати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>їсти<s n="vblex"/><s n="imperf"/></r></p></e>
     
     <e><p><l>matka<s n="n"/><s n="f"/></l><r>мати<s n="n"/><s n="ani"/><s n="f"/></r></p></e>
     <e><p><l>whisky<s n="n"/><s n="nt"/><s n="indecl"/></l><r>віскі<s n="n"/><s n="m"/><s n="indecl"/></r></p></e>
