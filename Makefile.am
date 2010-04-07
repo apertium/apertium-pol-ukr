@@ -10,7 +10,8 @@ TARGETS_COMMON = $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
 	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX1).mode modes 
+	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
+	$(PREFIX1).mode modes $(PREFIX2).translit-std.bin
 
 $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -19,6 +20,10 @@ $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
 $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
 	lt-comp rl $(BASENAME).$(LANG2).dix $@
+
+$(PREFIX2).translit-std.bin: $(BASENAME).translit-uk-std.dix
+	apertium-validate-dictionary $(BASENAME).translit-uk-std.dix
+	lt-comp lr $(BASENAME).translit-uk-std.dix $@
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -86,9 +91,9 @@ clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
 	
-apertium_pl_csmodesdir=$(prefix)/share/apertium/modes/
-apertium_pl_csdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_pl_cs_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
+apertium_pl_ukmodesdir=$(prefix)/share/apertium/modes/
+apertium_pl_ukdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_pl_uk_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX2).autogen.bin \
@@ -100,7 +105,8 @@ apertium_pl_cs_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX2).autopgen.bin \
 		    $(PREFIX1).autopgen.bin \
 		    $(PREFIX1).mode \
-		    $(PREFIX2).mode
+		    $(PREFIX2).mode \
+		    $(PREFIX2).translit-std.bin
 		  
 install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml apertium-$(PREFIX1)

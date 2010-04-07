@@ -1,5 +1,5 @@
 <dictionary>
-  <alphabet>А</alphabet>
+  <alphabet>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЮЯЬабвгґдеєжзиіїйклмнопрстуфхцчшщюяь</alphabet>
     <pardefs>
       <pardef n="common">
         <e><p><l>a</l><r>a</r></p></e>
@@ -130,5 +130,40 @@
         <e><p><l>Ю</l><r>IU</r></p></e>
         <e><p><l>Я</l><r>IA</r></p></e>
       </pardef>
+      <pardef n="start_lower">
+        <e><i/><par n="common"/></e>
+        <e><i/><par n="start"/></e>
+      </pardef>
+      <pardef n="start_caps">
+        <e><i/><par n="common_caps"/></e>
+        <e><i/><par n="start_caps"/></e>
+      </pardef>
+      <pardef n="start_allcaps">
+        <e><i/><par n="common_allcaps"/></e>
+        <e><i/><par n="start_allcaps"/></e>
+      </pardef>
+      <pardef n="middle_lower">
+        <e><i/><par n="common"/></e>
+        <e><i/><par n="middle"/></e>
+      </pardef>
+      <pardef n="middle_caps">
+        <e><i/><par n="common_caps"/></e>
+        <e><i/><par n="middle_caps"/></e>
+      </pardef>
+      <pardef n="middle_allcaps">
+        <e><i/><par n="common_allcaps"/></e>
+        <e><i/><par n="middle_allcaps"/></e>
+      </pardef>
     </pardefs>
+    <section id="translit-std" type="standard">
+      <e><par n="start_allcaps"/><par n="middle_allcaps"/></e>
+      <e><par n="start_caps"/><par n="middle_lower"/></e>
+      <e><par n="start_lower"/><par n="middle_lower"/></e>
+
+      <e><par n="middle_lower"/><p><l>зг</l><r>zgh</r></p></e>
+      <e><par n="start_caps"/><p><l>зг</l><r>zgh</r></p></e>
+      <e><par n="start_allcaps"/><p><l>ЗГ</l><r>ZGH</r></p></e>
+
+      <e><p><l>'</l><r></r></p></e>
+    </section>
 </dictionary>
