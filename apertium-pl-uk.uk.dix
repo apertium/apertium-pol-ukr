@@ -6358,6 +6358,158 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ї/сти__vblex_imperf">
+      <e>
+        <p>
+          <l>стиму</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>стимемо</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>стимеш</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>стимете</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>стиме</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>стимуть</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>в<b/>би</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="cni"/><s n="m"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ла<b/>б</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="cni"/><s n="f"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ло<b/>б</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="cni"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ли<b/>б</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="cni"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>жмо</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ж</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>жте</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>сти</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>в</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ла</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ло</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ли</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>вши</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>м</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>мо</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>си</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>сте</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>сть</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>дять</l>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="куп/увати__vblex_imperf">
       <e>
@@ -6631,7 +6783,8 @@
     <e lm="писати"><i>пи</i><par n="пи/сати__vblex_imperf"/></e>
     <e lm="купувати"><i>куп</i><par n="куп/увати__vblex_imperf"/></e>
     <e lm="любити"><i>люб</i><par n="люб/ити__vblex_imperf"/></e>
-    
+    <e lm="їсти"><i>ї</i><par n="ї/сти__vblex_imperf"/></e>
+
     <e lm="ні"><i>ні</i><par n="ні__ij"/></e>
     <e lm="так"><i>так</i><par n="ні__ij"/></e>
     <e lm="привіт"><i>привіт</i><par n="ні__ij"/></e>
