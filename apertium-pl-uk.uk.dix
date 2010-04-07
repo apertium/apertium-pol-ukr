@@ -6303,15 +6303,17 @@
       </e>
       <e>
         <p>
-          <l>саний</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="psv"/></r>
+          <l>сан</l>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
+        <par n="BASE__англійський"/>
       </e>
       <e>
         <p>
-          <l>шучий</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="act"/></r>
+          <l>шуч</l>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
+        <par n="BASE__англійський"/>
       </e>
       <e>
         <p>
@@ -6357,7 +6359,6 @@
       </e>
     </pardef>
 
-  <!-- купувати; куп -->
     <pardef n="куп/увати__vblex_imperf">
       <e>
         <p>
@@ -6481,15 +6482,17 @@
       </e>
       <e>
         <p>
-          <l>лений</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="psv"/></r>
+          <l>лен</l>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
+        <par n="BASE__англійський"/>
       </e>
       <e>
         <p>
-          <l>уючий</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="act"/></r>
+          <l>уюч</l>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
+        <par n="BASE__англійський"/>
       </e>
       <e>
         <p>
