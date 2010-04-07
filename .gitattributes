@@ -1,6 +1,22 @@
 * text=auto !eol
+/COPYING -text
+/Makefile.am -text
+/README -text
 /apertium-pl-uk.pl-uk.dix -text
+/apertium-pl-uk.pl-uk.t1x -text
+/apertium-pl-uk.pl-uk.t2x -text
+/apertium-pl-uk.pl-uk.t3x -text
+/apertium-pl-uk.pl.dix -text
+/apertium-pl-uk.pl.tsx -text
 /apertium-pl-uk.translit-uk-std.dix -text
+/apertium-pl-uk.uk-pl.t1x -text
+/apertium-pl-uk.uk-pl.t2x -text
+/apertium-pl-uk.uk-pl.t3x -text
 /apertium-pl-uk.uk.dix -text
+/autogen.sh -text
+/configure.ac -text
 dev/interwiki.pl-uk -text
 dev/to-translate -text
+/modes.xml -text
+/pl-uk.prob -text svneol=unset#unset
+/uk-pl.prob -text
