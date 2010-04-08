@@ -22,6 +22,7 @@
 /configure.ac -text
 dev/interwiki.pl-uk -text
 dev/nouns.txt -text
+dev/nouns_1.txt -text
 dev/to-translate -text
 /modes.xml -text
 /pl-uk.prob -text svneol=unset#unset
