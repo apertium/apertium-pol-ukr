@@ -4,15 +4,15 @@
     <sdef n="n"      c="существительное/іменник"/>
     <sdef n="adj"    c="прилагательное/Прикметник"/>
     
-    <sdef n="f"      c="женский"/>
-    <sdef n="m"      c="мужской"/>
-    <sdef n="nt"     c="средний"/>
+    <sdef n="f"      c="жіночий"/>
+    <sdef n="m"      c="чоловічий"/>
+    <sdef n="nt"     c="середній"/>
     <sdef n="mf"     c="мужской/женский"/>
-    <sdef n="ani"    c=""/>
-    <sdef n="mp"     c=""/>
-    <sdef n="ma"     c=""/>
-    <sdef n="mi"     c=""/>
-    <sdef n="np"     c=""/>
+    <sdef n="ani"    c="назви істот"/>
+    <sdef n="mp"     c="чоловічий особовий"/>
+    <sdef n="ma"     c="чоловічий звірячий"/>
+    <sdef n="mi"     c="чоловічий неособовий"/>
+    <sdef n="np"     c="власна назва"/>
 
     <sdef n="sg"     c="однина"/>
     <sdef n="pl"     c="множина"/>
@@ -32,28 +32,28 @@
     <sdef n="det"    c=""/>
     <sdef n="dem"    c=""/>
     <sdef n="itg"    c=""/>
-    <sdef n="neg"    c=""/>
+    <sdef n="neg"    c="заперечення"/>
 
     <sdef n="pprep"  c=""/>
 
-    <sdef n="ij"     c=""/>
+    <sdef n="ij"     c="вигук"/>
 
-    <sdef n="p1"     c=""/>
-    <sdef n="p2"     c=""/>
-    <sdef n="p3"     c=""/>
+    <sdef n="p1"     c="перша особа"/>
+    <sdef n="p2"     c="друга особа "/>
+    <sdef n="p3"     c="третя особа "/>
 
     <sdef n="pr"     c=""/>
     <sdef n="cnjcoo" c=""/>
     <sdef n="cnjsub" c=""/>
     <sdef n="cnjadv" c=""/>
-    <sdef n="vblex"  c=""/>
-    <sdef n="imperf" c=""/>
-    <sdef n="perf"   c=""/>
-    <sdef n="num"    c=""/>
+    <sdef n="vblex"  c="дієслово"/>
+    <sdef n="imperf" c="недоконаний вид"/>
+    <sdef n="perf"   c="доконаний вид"/>
+    <sdef n="num"    c="числівник"/>
     <sdef n="sint"   c=""/>
     <sdef n="adv"    c=""/>
     <sdef n="pos"    c=""/>
-    <sdef n="top"    c=""/>
+    <sdef n="top"    c="топонім"/>
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>jeśli<s n="cnjadv"/></l><r>якщо<s n="cnjadv"/></r></p></e>
