@@ -290,12 +290,7 @@
     <e><p><l>partyzancki<s n="adj"/></l><r>партизанський<s n="adj"/></r></p></e>
     <e><p><l>proletariacki<s n="adj"/></l><r>пролетарський<s n="adj"/></r></p></e>
 
-
-                                                                     
-                                                                     
-                                                                     
-                                             
- ﻿    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>агент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>агент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>agencja<s n="n"/><s n="f"/></l><r>агентство<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>piekło<s n="n"/><s n="nt"/></l><r>пекло<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>adwokat<s n="n"/><s n="mp"/></l><r>адвокат<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -804,7 +799,7 @@
      <e><p><l>wyrób<s n="n"/><s n="mi"/></l><r>виріб<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>zmiana<s n="n"/><s n="f"/></l><r>зміна<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>wizerunek<s n="n"/><s n="mi"/></l><r>візерунок<s n="n"/><s n="m"/></r></p></e>
-     '
+     
      <e><p><l>Izrael<s n="np"/><s n="top"/><s n="mi"/></l><r>Ізраель<s n="np"/><s n="top"/><s n="m"/></r></p></e>
      <e><p><l>podziw<s n="n"/><s n="mi"/></l><r>подив<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>studiowanie<s n="n"/><s n="nt"/></l><r>вивчення<s n="n"/><s n="nt"/></r></p></e>
@@ -961,7 +956,7 @@
      <e><p><l>dzida<s n="n"/><s n="f"/></l><r>спис<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>statek<s n="n"/><s n="mi"/></l><r>корабель<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>korzeń<s n="n"/><s n="mi"/></l><r>корінь<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>Korea<s n="np"/><s n="top"/><s n="f"></l><r>Корея<s n="np"/><s n="top"/><s n="f"></r></p></e>
+     <e><p><l>Korea<s n="np"/><s n="top"/><s n="f"/></l><r>Корея<s n="np"/><s n="top"/><s n="f"/></r></p></e>
      <e><p><l>kosz<s n="n"/><s n="mi"/></l><r>кошик<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>korytarz<s n="n"/><s n="mi"/></l><r>коридор<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>pudełko<s n="n"/><s n="nt"/></l><r>коробка<s n="n"/><s n="f"/></r></p></e>
@@ -2356,6 +2351,7 @@
      <e><p><l>fuga<s n="n"/><s n="f"/></l><r>щілина<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>szczenię<s n="n"/><s n="nt"/></l><r>щеня<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>tarcza<s n="n"/><s n="f"/></l><r>щит<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>wierzchołek<s n="n"/><s n="mi"/></l><r>вершина<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>egzamin<s n="n"/><s n="mi"/></l><r>іспит<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>załoga<s n="n"/><s n="f"/></l><r>екіпаж<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>gospodarka<s n="n"/><s n="f"/></l><r>економіка<s n="n"/><s n="f"/></r></p></e>
