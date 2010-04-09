@@ -23,12 +23,6 @@
         <e><p><l>т</l><r>t</r></p></e>
         <e><p><l>у</l><r>u</r></p></e>
         <e><p><l>ф</l><r>f</r></p></e>
-        <e><p><l>ж</l><r>zh</r></p></e>
-        <e><p><l>х</l><r>kh</r></p></e>
-        <e><p><l>ц</l><r>ts</r></p></e>
-        <e><p><l>ч</l><r>ch</r></p></e>
-        <e><p><l>ш</l><r>sh</r></p></e>
-        <e><p><l>щ</l><r>shch</r></p></e>
       </pardef>
       <pardef n="common_caps">
         <e><p><l>А</l><r>A</r></p></e>
@@ -156,6 +150,18 @@
         <e><p><l>У</l><r>U</r></p></e>
         <e><p><l>Ф</l><r>F</r></p></e>
 
+        <e><p><l>ж</l><r>zh</r></p></e>
+        <e><p><l>х</l><r>kh</r></p></e>
+        <e><p><l>ц</l><r>ts</r></p></e>
+        <e><p><l>ч</l><r>ch</r></p></e>
+        <e><p><l>ш</l><r>sh</r></p></e>
+        <e><p><l>щ</l><r>shch</r></p></e>
+        <e><p><l>Ж</l><r>Zh</r></p></e>
+        <e><p><l>Х</l><r>Kh</r></p></e>
+        <e><p><l>Ц</l><r>Ts</r></p></e>
+        <e><p><l>Ч</l><r>Ch</r></p></e>
+        <e><p><l>Ш</l><r>Sh</r></p></e>
+        <e><p><l>Щ</l><r>Shch</r></p></e>
 
 <!--
       <e><par n="start_caps"/><par n="middle_lower"/></e>
@@ -166,6 +172,14 @@
       <e><p><l>Зг</l><r>Zgh</r></p></e>
       <e><p><l>ЗГ</l><r>ZGH</r></p></e>
 
-      <e i="yes"><p><l>'</l><r></r></p></e>
+      <e><p><l>'є</l><r>ie</r></p></e>
+      <e><p><l>'Є</l><r>IE</r></p></e>
+
+      <e><p><l>п'є</l><r>pie</r></p></e>
+
+      <e><p><l>іє</l><r>iie</r></p></e>
+      <e><p><l>ає</l><r>aie</r></p></e>
+
+      <e><p><l>'</l><r></r></p></e>
     </section>
 </dictionary>
