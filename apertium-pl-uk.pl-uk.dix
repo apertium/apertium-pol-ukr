@@ -2351,7 +2351,8 @@
      <e><p><l>szturman<s n="n"/><s n="mp"/></l><r>штурман<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>futro<s n="n"/><s n="nt"/></l><r>шуба<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>szum<s n="n"/><s n="mi"/></l><r>шум<s n="n"/><s n="m"/></r></p></e>
-     <e><p><l>dowcip<s n="n"/><s n="mi"/></l><r>жарт<s n="n"/><s n="m"/></r></p></e>
+     <e r="LR"><p><l>dowcip<s n="n"/><s n="mi"/></l><r>жарт<s n="n"/><s n="m"/></r></p></e>
+     <e><p><l>żart<s n="n"/><s n="mi"/></l><r>жарт<s n="n"/><s n="m"/></r></p></e>
      <e><p><l>fuga<s n="n"/><s n="f"/></l><r>щілина<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>szczenię<s n="n"/><s n="nt"/></l><r>щеня<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>tarcza<s n="n"/><s n="f"/></l><r>щит<s n="n"/><s n="m"/></r></p></e>
