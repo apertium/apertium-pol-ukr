@@ -3362,6 +3362,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__jedzony">
+      <e>
+        <p>
+          <l>on</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>eni</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eni</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__pierwszy">
       <e>
         <p>
@@ -4478,6 +4499,236 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__jeść-past">
+      <e>
+        <p>
+          <l>adłem</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłam</l>
+          <r><s n="past"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłeś</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłaś</l>
+          <r><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adł</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adła</l>
+          <r><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adło</l>
+          <r><s n="past"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>adłom</l>
+          <r><s n="past"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>adłoś</l>
+          <r><s n="past"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edliśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>edlimy</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edliście</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>edlicie</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edli</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłyśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>adłymy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłyście</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>adłycie</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adły</l>
+          <r><s n="past"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłbym</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłabym</l>
+          <r><s n="cni"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłbyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłabyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłby</l>
+          <r><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłaby</l>
+          <r><s n="cni"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłoby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>adłobym</l>
+          <r><s n="cni"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>adłobyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edlibyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>edlibymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edlibyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>edlibycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edliby</l>
+          <r><s n="cni"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłybyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>adłybymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłybyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>adłybycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adłyby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__móc-past">
       <e>
         <p>
@@ -5090,6 +5341,12 @@
         </p>
         <par n="BASE__kochany"/>
       </e>
+      <e>
+        <p>
+          <l>ano</l>
+          <r>ać<s n="vbser"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="przeczyt/ać__vblex">
       <e>
@@ -5305,6 +5562,102 @@
           <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
+      </e>
+    </pardef>
+    <pardef n="j/eść__vblex">
+      <e>
+         <p>
+          <l>eść</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esz</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emy</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ecie</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edzą</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>edz</l>
+          <r>eść<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>eść<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__jeść-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>edząc</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>edząc</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>edze</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>adz</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+
+      <e>
+        <p>
+          <l>edzono</l>
+          <r>eść<s n="vbser"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
       </e>
     </pardef>
 
@@ -14132,6 +14485,7 @@
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="wiedzieć"><i>wie</i><par n="wie/dzieć__vblex"/></e>
     <e lm="chcieć"><i>chc</i><par n="chc/ieć__vblex"/></e>
+    <e lm="jeść"><i>j</i><par n="j/eść__vblex"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="samochód"><i>samoch</i><par n="samoch/ód__n"/></e>
