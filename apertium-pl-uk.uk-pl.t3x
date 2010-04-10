@@ -4,6 +4,7 @@
   <section-def-cats>
     <def-cat n="verb">
       <cat-item name="verb"/>
+      <cat-item name="verbpast"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item name="nom"/>
@@ -31,10 +32,6 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
       <attr-item tags="PD"/>
-    </def-attr>
-    <def-attr n="defnes">
-      <attr-item tags="ind"/>
-      <attr-item tags="def"/>
     </def-attr>
   </section-def-attrs>
 
