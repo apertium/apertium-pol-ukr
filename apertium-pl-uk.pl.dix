@@ -5752,7 +5752,96 @@
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vbser"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="napis/ać__vblex">
+      <e>
+         <p>
+          <l>ać</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zę</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zesz</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zemy</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zecie</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>z</l>
+          <r>ać<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>awszy</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__kochany"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ano</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -14583,6 +14672,7 @@
     <e lm="chcieć"><i>chc</i><par n="chc/ieć__vblex"/></e>
     <e lm="jeść"><i>j</i><par n="j/eść__vblex"/></e>
     <e lm="pisać"><i>pis</i><par n="pis/ać__vblex"/></e>
+    <e lm="napisać"><i>napis</i><par n="napis/ać__vblex"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="samochód"><i>samoch</i><par n="samoch/ód__n"/></e>
