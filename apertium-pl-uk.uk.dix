@@ -45,7 +45,7 @@
     <sdef n="vblex"  c=""/>
     <sdef n="imperf" c=""/>
     <sdef n="perf"   c=""/>
-    <sdef n="fut"    c=""/>
+    <sdef n="fti"    c=""/>
     <sdef n="cni"    c=""/>
     <sdef n="imp"    c=""/>
     <sdef n="impers" c=""/>
@@ -6184,37 +6184,37 @@
       <e>
         <p>
           <l>сатиму</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>сатимемо</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>сатимеш</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>сатимете</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>сатиме</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>сатимуть</l>
-          <r>сати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+          <r>сати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
@@ -6362,37 +6362,37 @@
       <e>
         <p>
           <l>стиму</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>стимемо</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>стимеш</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>стимете</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>стиме</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>стимуть</l>
-          <r>сти<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+          <r>сти<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
@@ -6515,37 +6515,37 @@
       <e>
         <p>
           <l>уватиму</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уватимемо</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уватимеш</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уватимете</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уватиме</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>уватимуть</l>
-          <r>увати<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+          <r>увати<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>

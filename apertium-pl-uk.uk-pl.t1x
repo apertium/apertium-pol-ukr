@@ -30,14 +30,14 @@
      <cat-item tags="vbhaver.imperf.past.*"/>
      <cat-item tags="vaux.imperf.past"/>
      <cat-item tags="vaux.imperf.past.*"/>
-     <cat-item tags="vblex.imperf.fut"/>
-     <cat-item tags="vblex.imperf.fut.*"/>
-     <cat-item tags="vblex.perf.fut"/>
-     <cat-item tags="vblex.perf.fut.*"/>
-     <cat-item tags="vbhaver.imperf.fut"/>
-     <cat-item tags="vbhaver.imperf.fut.*"/>
-     <cat-item tags="vaux.imperf.fut"/>
-     <cat-item tags="vaux.imperf.fut.*"/>
+     <cat-item tags="vblex.imperf.fti"/>
+     <cat-item tags="vblex.imperf.fti.*"/>
+     <cat-item tags="vblex.perf.fti"/>
+     <cat-item tags="vblex.perf.fti.*"/>
+     <cat-item tags="vbhaver.imperf.fti"/>
+     <cat-item tags="vbhaver.imperf.fti.*"/>
+     <cat-item tags="vaux.imperf.fti"/>
+     <cat-item tags="vaux.imperf.fti.*"/>
      <cat-item tags="vblex.imperf.pres"/>
      <cat-item tags="vblex.imperf.pres.*"/>
      <cat-item tags="vbhaver.imperf.pres"/>
@@ -256,7 +256,7 @@
 
 <!-- Reguły czasownikowe -->
 
-  <rule comment="čítal -> czytał">
+  <rule comment="їстиму -> będę jeść">
      <pattern>
        <pattern-item n="verbcj"/>
      </pattern>
@@ -271,7 +271,7 @@
                </equal>
                <equal>
                  <clip pos="1" side="sl" part="tns"/>
-                 <lit-tag v="fut"/>
+                 <lit-tag v="fti"/>
                </equal>
              </and>
            </test>
@@ -280,13 +280,13 @@
                <tags>
                  <tag><lit-tag v="SV"/></tag>
                   <tag><clip pos="1" side="tl" part="asp"/></tag>
-                  <tag><lit-tag v="fut"/></tag>
+                  <tag><lit-tag v="fti"/></tag>
                   <tag><clip pos="1" side="tl" part="prs"/></tag>
                   <tag><clip pos="1" side="tl" part="nbr"/></tag>
                 </tags>
                 <lu>
                   <lit v="być"/>
-                  <lit v="vbser"/>
+                  <lit-tag v="vbser"/>
                   <clip pos="1" side="tl" part="tns" link-to="3"/>
                   <clip pos="1" side="tl" part="prs" link-to="4"/>
                   <clip pos="1" side="tl" part="nbr" link-to="5"/>
