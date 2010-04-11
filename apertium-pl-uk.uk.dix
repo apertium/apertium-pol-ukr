@@ -6606,6 +6606,122 @@
         </p>
       </e>
     </pardef>
+    <pardef n="/бути__vbser">
+      <e>
+        <p>
+          <l>буду</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будемо</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будеш</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будете</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будет</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будуть</l>
+          <r>бути<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>був<b/>би</l>
+          <r>бути<s n="vbser"/><s n="cni"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>була<b/>б</l>
+          <r>бути<s n="vbser"/><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>було<b/>б</l>
+          <r>бути<s n="vbser"/><s n="cni"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>були<b/>б</l>
+          <r>бути<s n="vbser"/><s n="cni"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будьмо</l>
+          <r>бути<s n="vbser"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будь</l>
+          <r>бути<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>будьте</l>
+          <r>бути<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>бути</l>
+          <r>бути<s n="vbser"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>був</l>
+          <r>бути<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>була</l>
+          <r>бути<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>було</l>
+          <r>бути<s n="vbser"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>були</l>
+          <r>бути<s n="vbser"/><s n="past"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>є</l>
+          <r>бути<s n="vbser"/><s n="pres"/><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="куп/увати__vblex_imperf">
       <e>
@@ -6900,6 +7016,7 @@
     <e lm="для"><i>для</i><par n="про__pr"/></e>
     <e lm="напередодні"><i>напередодні</i><par n="про__pr"/></e>
 
+    <e lm="бути"><i></i><par n="/бути__vbser"/></e>
     <e lm="писати"><i>пи</i><par n="пи/сати__vblex_imperf"/></e>
     <e lm="купувати"><i>куп</i><par n="куп/увати__vblex_imperf"/></e>
     <e lm="любити"><i>люб</i><par n="люб/ити__vblex_imperf"/></e>

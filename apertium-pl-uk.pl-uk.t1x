@@ -27,6 +27,15 @@
      <cat-item tags="vaux.imperf.cni"/>
      <cat-item tags="vaux.imperf.cni.*"/>
   </def-cat>
+  <def-cat n="serfut">
+     <cat-item tags="vbser.fut"/>
+     <cat-item tags="vbser.fut.*"/>
+  </def-cat>
+  <def-cat n="inf">
+     <cat-item tags="vbser.inf"/>
+     <cat-item tags="vblex.imperf.inf"/>
+     <cat-item tags="vblex.perf.inf"/>
+  </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
