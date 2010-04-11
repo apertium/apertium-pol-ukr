@@ -43,6 +43,7 @@
     <sdef n="pos"    c=""/>
     <sdef n="ij"     c=""/>
     <sdef n="vblex"  c=""/>
+    <sdef n="vbser"  c="бути"/>
     <sdef n="imperf" c=""/>
     <sdef n="perf"   c=""/>
     <sdef n="fti"    c=""/>
@@ -67,6 +68,7 @@
     <sdef n="comp"   c=""/>
     <sdef n="sup"    c=""/>
     <sdef n="sent"   c=""/>
+    <sdef n="sp"     c=""/>
   </sdefs>  
   <pardefs>
     <pardef n="separa">
