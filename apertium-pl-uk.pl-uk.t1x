@@ -28,13 +28,17 @@
      <cat-item tags="vaux.imperf.cni.*"/>
   </def-cat>
   <def-cat n="serfut">
-     <cat-item tags="vbser.fut"/>
-     <cat-item tags="vbser.fut.*"/>
+     <cat-item tags="vbser.fti"/>
+     <cat-item tags="vbser.fti.*"/>
   </def-cat>
-  <def-cat n="inf">
-     <cat-item tags="vbser.inf"/>
+  <def-cat n="serpres">
+     <cat-item tags="vbser.pres"/>
+     <cat-item tags="vbser.pres.*"/>
+  </def-cat>
+  <def-cat n="imperffut">
      <cat-item tags="vblex.imperf.inf"/>
-     <cat-item tags="vblex.perf.inf"/>
+     <cat-item tags="vblex.imperf.past"/>
+     <cat-item tags="vblex.imperf.past.*"/>
   </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
@@ -254,6 +258,34 @@
               <clip pos="1" side="tl" part="gen" link-to="5"/>
               <clip pos="1" side="tl" part="nbr" link-to="6"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule>
+     <pattern>
+       <pattern-item n="serfut"/>
+       <pattern-item n="imperffut"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="verbfut" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="asp"/></tag>
+              <tag><clip pos="1" side="tl" part="tns"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <clip pos="1" side="tl" part="prs" link-to="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="5"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
