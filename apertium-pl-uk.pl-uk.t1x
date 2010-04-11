@@ -18,6 +18,14 @@
      <cat-item tags="vbhaver.imperf.past.*"/>
      <cat-item tags="vaux.imperf.past"/>
      <cat-item tags="vaux.imperf.past.*"/>
+     <cat-item tags="vblex.imperf.cni"/>
+     <cat-item tags="vblex.imperf.cni.*"/>
+     <cat-item tags="vblex.perf.cni"/>
+     <cat-item tags="vblex.perf.cni.*"/>
+     <cat-item tags="vbhaver.imperf.cni"/>
+     <cat-item tags="vbhaver.imperf.cni.*"/>
+     <cat-item tags="vaux.imperf.cni"/>
+     <cat-item tags="vaux.imperf.cni.*"/>
   </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
