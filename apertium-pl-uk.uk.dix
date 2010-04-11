@@ -66,8 +66,18 @@
     <sdef n="sint"   c=""/>
     <sdef n="comp"   c=""/>
     <sdef n="sup"    c=""/>
+    <sdef n="sent"   c=""/>
   </sdefs>  
   <pardefs>
+    <pardef n="separa">
+      <e>
+        <re>[.\?;:!]</re>
+        <p>
+          <l/>
+          <r><s n="sent"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="про__pr">
       <e>
         <p>
@@ -7125,5 +7135,8 @@
     <e lm="чеченський"><i>чеченськ</i><par n="англійськ/ий__adj"/></e>
     <e lm="шампанський"><i>шампанськ</i><par n="англійськ/ий__adj"/></e>
     <e lm="японський"><i>японськ</i><par n="англійськ/ий__adj"/></e>
+  </section>
+  <section id="punct" type="inconditional">
+    <e><par n="separa"/></e>
   </section>
 </dictionary>
