@@ -143,6 +143,8 @@
      <attr-item tags="f"/>
      <attr-item tags="nt"/>
      <attr-item tags="mf"/>
+     <attr-item tags="nm"/>
+     <attr-item tags="mp.nm"/>
   </def-attr>
 
   <def-attr n="prs">

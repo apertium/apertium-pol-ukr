@@ -54,6 +54,8 @@
     <sdef n="adv"    c=""/>
     <sdef n="pos"    c=""/>
     <sdef n="top"    c="топонім"/>
+
+    <sdef n="sent"   c=""/>
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>jeśli<s n="cnjadv"/></l><r>якщо<s n="cnjadv"/></r></p></e>
@@ -2385,5 +2387,8 @@
      <e><p><l>Japończyk<s n="n"/><s n="mp"/></l><r>японець<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>furia<s n="n"/><s n="f"/></l><r>фурія<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>szuflada<s n="n"/><s n="f"/></l><r>шухляда<s n="n"/><s n="f"/></r></p></e>
+  </section>
+  <section id="punct" type="standard">
+    <e><i>.<s n="sent"/></i></e>
   </section>
 </dictionary>
