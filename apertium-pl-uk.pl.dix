@@ -19285,6 +19285,9 @@
     <e lm="jasny"><i>ja</i><par n="ja/sny__adj"/></e>
     <e lm="jasny"><p><l>jaśniej</l><r>jasny</r></p><par n="lep/szy__adj"/></e>
     <e lm="jasny"><p><l>najjaśniej</l><r>jasny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="głupi"><i>głup</i><par n="głup/i__adj"/></e>
+    <e lm="głupi"><p><l>głup</l><r>głupi</r></p><par n="lep/szy__adj"/></e>
+    <e lm="głupi"><p><l>najgłup</l><r>głupi</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
@@ -19307,6 +19310,21 @@
     <e lm="ktoś"><i>k</i><par n="k/toś__prn"/></e>
     <e lm="ktokolwiek"><i>k</i><par n="k/tokolwiek__prn"/></e>
     <e lm="kto bądź"><i>k</i><par n="k/to_bądź__prn"/></e>
+    <e lm="ile"><i>il</i><par n="il/e__det"/></e>
+    <e lm="ile"><i>il</i><par n="il/e__prn"/></e>
+    <e lm="ilekolwiek"><i>il</i><par n="il/ekolwiek__prn"/></e>
+    <e lm="ile bądź"><i>il</i><par n="il/e_bądź__prn"/></e>
+    <e lm="wiele"><i>wiel</i><par n="wiel/e__det"/></e>
+    <e lm="wiele"><i>wiel</i><par n="wiel/e__prn"/></e>
+    <e lm="dwa"><i>dw</i><par n="dw/a__num"/></e>
+    <e lm="oba"><i>ob</i><par n="ob/a__det"/></e>
+    <e lm="oba"><i>ob</i><par n="ob/a__prn"/></e>
+    <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
+    <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
+    <e lm="troje"><i>troj</i><par n="dwoj/e__det"/></e>
+    <e lm="troje"><i>troj</i><par n="dwoj/e__prn"/></e>
+    <e lm="czworo"><i>czwor</i><par n="czwor/o__det"/></e>
+    <e lm="czworo"><i>czwor</i><par n="czwor/o__prn"/></e>
 
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
@@ -19663,6 +19681,8 @@
     <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
     <e lm="Piotr"><i>Piotr</i><par n="Piotr__np"/></e>
     <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
+    <e lm="Paweł"><i>Paw</i><par n="Paw/eł__np"/></e>
+    <e lm="Pawłek"><p><l>Pawł</l><r>Þaweł</r></p><par n="Piotr/ek__np"/></e>
     <e lm="Petr"><i>Petr</i><par n="Piotr__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
 
