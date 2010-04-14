@@ -20,6 +20,7 @@
 /apertium-pl-uk.uk.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/apertium-pl-uk.uk.dix -text
 dev/interwiki.pl-uk -text
 dev/nouns.txt -text
 dev/nouns_1.txt -text
