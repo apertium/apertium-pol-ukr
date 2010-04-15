@@ -4744,21 +4744,23 @@
 </pardef>
 
 <pardef n="щось__prn"> <!-- coś -->
-      <e><p>          <l></l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l>щось</l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p>          <l>чогось</l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p>          <l>чомусь</l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e><p>          <l>чомусь</l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e> <!--чімсь-->
-      <e><p>          <l>чимось</l><r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p>          <l>щось</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>щось</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>чогось</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>чомусь</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>чомусь</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e> <!--чімсь-->
+      <e r="LR"><p>          <l>чімсь</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e> <!--чімсь-->
+      <e><p>          <l>чимось</l><r>щось<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
 </pardef>
 
 <pardef n="що__prn"> <!-- co -->
-      <e><p>          <l></l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l>що</l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p>          <l>чого</l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p>          <l>чому</l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e><p>          <l>чому</l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e> <!--чім-->
-      <e><p>          <l>чим</l><r><s n="prn"/><s n="rel"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p>          <l>що</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>що</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>чого</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>чому</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>чому</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e> <!--чім-->
+      <e r="LR"><p>          <l>чім</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e> <!--чім-->
+      <e><p>          <l>чим</l><r>що<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
 </pardef>
 
 
