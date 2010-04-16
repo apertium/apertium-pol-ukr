@@ -2390,6 +2390,23 @@
      <e><p><l>Japończyk<s n="n"/><s n="mp"/></l><r>японець<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
      <e><p><l>furia<s n="n"/><s n="f"/></l><r>фурія<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>szuflada<s n="n"/><s n="f"/></l><r>шухляда<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eurazja<s n="np"/><s n="top"/><s n="f"/></l><r>Євразія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Abisynia<s n="np"/><s n="top"/><s n="f"/></l><r>Абіссінія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bułgaria<s n="np"/><s n="top"/><s n="f"/></l><r>Болгарія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>abazja<s n="n"/><s n="f"/></l><r>абазія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abdukcja<s n="n"/><s n="f"/></l><r>абдукція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aberracja<s n="n"/><s n="f"/></l><r>аберація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ablacja<s n="n"/><s n="f"/></l><r>абляція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abrazja<s n="n"/><s n="f"/></l><r>абразія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abrogacja<s n="n"/><s n="f"/></l><r>аброгація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abrupcja<s n="n"/><s n="f"/></l><r>абрупція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolutyzacja<s n="n"/><s n="f"/></l><r>абсолютизація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolucja<s n="n"/><s n="f"/></l><r>абсолюція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstrakcja<s n="n"/><s n="f"/></l><r>абстракція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abulia<s n="n"/><s n="f"/></l><r>абулія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>awaria<s n="n"/><s n="f"/></l><r>аварія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autobiografia<s n="n"/><s n="f"/></l><r>автобіографія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autochemoterapia<s n="n"/><s n="f"/></l><r>автогемотерапія<s n="n"/><s n="f"/></r></p></e>
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>
