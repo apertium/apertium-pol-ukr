@@ -53,4 +53,4 @@ s/о/o/g
 s/х/ch/g
 s/ж/ż/g
 s/ш/sz/g
-
+s/є/je/g
