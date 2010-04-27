@@ -110,6 +110,37 @@
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>їсти<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>czyścić<s n="vblex"/><s n="imperf"/></l><r>чистити<s n="vblex"/><s n="imperf"/></r></p></e>
     
+    <e><p><l>Beduin<s n="n"/><s n="mp"/></l><r>бедуїн<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>Mongoł<s n="n"/><s n="mp"/></l><r>Монгол<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>Pers<s n="n"/><s n="mp"/></l><r>Перс<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>soczewica<s n="n"/><s n="f"/></l><r>сочевиця<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Australia<s n="np"/><s n="top"/><s n="f"/></l><r>Австралія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Austria<s n="np"/><s n="top"/><s n="f"/></l><r>Австрія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>autobus<s n="n"/><s n="mi"/></l><r>автобус<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>automatyczny<s n="adj"/></l><r>автоматичний<s n="adj"/></r></p></e>
+    <e><p><l>głos<s n="n"/><s n="mi"/></l><r>голос<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>góra<s n="n"/><s n="f"/></l><r>гора<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>horyzont<s n="n"/><s n="mi"/></l><r>горизонт<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>geologiczny<s n="adj"/></l><r>геологічний<s n="adj"/></r></p></e>
+    <e><p><l>gorzki<s n="adj"/></l><r>гіркий<s n="adj"/></r></p></e>
+    <e><p><l>głęboki<s n="adj"/></l><r>глибокий<s n="adj"/></r></p></e>
+    <e><p><l>gigantyczny<s n="adj"/></l><r>гігантський<s n="adj"/></r></p></e>
+    <e><p><l>higieniczny<s n="adj"/></l><r>гігієнічний<s n="adj"/></r></p></e>
+    <e><p><l>globalny<s n="adj"/></l><r>глобальний<s n="adj"/></r></p></e>
+    <e><p><l>głodny<s n="adj"/></l><r>голодний<s n="adj"/></r></p></e>
+    <e><p><l>głowa<s n="n"/><s n="f"/></l><r>голова<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hotel<s n="n"/><s n="mi"/></l><r>готель<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gotowy<s n="adj"/></l><r>готовий<s n="adj"/></r></p></e>
+    <e><p><l>gotować<s n="vblex"/><s n="imperf"/></l><r>готувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>gra<s n="n"/><s n="f"/></l><r>гра<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Algieria<s n="np"/><s n="top"/><s n="f"/></l><r>Алжир<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Ameryka<s n="np"/><s n="top"/><s n="f"/></l><r>Америка<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Amman<s n="np"/><s n="top"/><s n="f"/></l><r>Амман<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Англія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Бельгія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Babilon<s n="np"/><s n="top"/><s n="mi"/></l><r>Вавилон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Wielka<b/>Brytania<s n="np"/><s n="top"/><s n="f"/></l><r>Великобританія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
     <e><p><l>matka<s n="n"/><s n="f"/></l><r>мати<s n="n"/><s n="ani"/><s n="f"/></r></p></e>
     <e><p><l>whisky<s n="n"/><s n="nt"/><s n="indecl"/></l><r>віскі<s n="n"/><s n="m"/><s n="indecl"/></r></p></e>
     <e><p><l>pracownik<s n="n"/></l><r>робітник<s n="n"/><s n="ani"/></r></p></e>
@@ -131,6 +162,9 @@
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>листопад<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>грудень<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sosna<s n="n"/><s n="f"/></l><r>сосна<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sypialnia<s n="n"/><s n="f"/></l><r>спальня<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>staranny<s n="adj"/></l><r>старанний<s n="adj"/></r></p></e>
+    <e><p><l>ślepy<s n="adj"/></l><r>сліпий<s n="adj"/></r></p></e>
     <e><p><l>sypialny<s n="adj"/></l><r>спальний<s n="adj"/></r></p></e>
     <e><p><l>abisyński<s n="adj"/></l><r>абіссінський<s n="adj"/></r></p></e>
     <e><p><l>amerykański<s n="adj"/></l><r>американський<s n="adj"/></r></p></e>
