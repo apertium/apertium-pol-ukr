@@ -178,6 +178,7 @@
     <e><p><l>era<s n="n"/><s n="f"/></l><r>ера<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wycieczka<s n="n"/><s n="f"/></l><r>екскурсія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dom<s n="n"/><s n="mi"/></l><r>дім<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>półka<s n="n"/><s n="f"/></l><r>поличка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>czasownik<s n="n"/><s n="mi"/></l><r>дієслово<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aktywność<s n="n"/><s n="f"/></l><r>активність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antena<s n="n"/><s n="f"/></l><r>антена<s n="n"/><s n="f"/></r></p></e>
@@ -227,6 +228,13 @@
     <e><p><l>twórczość<s n="n"/><s n="f"/></l><r>творчість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trudność<s n="n"/><s n="f"/></l><r>трудність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>a<s n="cnjcoo"/></l><r>а<s n="cnjcoo"/></r></p></e>
+    <e><p><l>poprawny<s n="adj"/></l><r>правильний<s n="adj"/></r></p></e>
+    <e><p><l>uparty<s n="adj"/></l><r>упертий<s n="adj"/></r></p></e>
+    <e><p><l>niemy<s n="adj"/></l><r>німий<s n="adj"/></r></p></e>
+    <e><p><l>kopia<s n="n"/><s n="f"/></l><r>копія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>znaczny<s n="adj"/></l><r>значний<s n="adj"/></r></p></e>
+    <e><p><l>zagraniczny<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>cudzoziemski<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
     <e><p><l>absolutnie<s n="adv"/></l><r>абсолютно<s n="adv"/></r></p></e>
     <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
     <e><p><l>sierpień<s n="n"/><s n="mi"/></l><r>серпень<s n="n"/><s n="m"/></r></p></e>
