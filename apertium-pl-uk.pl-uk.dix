@@ -85,6 +85,10 @@
     <e><p><l>spod<s n="pr"/></l><r>з-під<s n="pr"/></r></p></e>
     <e><p><l>zza<s n="pr"/></l><r>із-за<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>після<s n="pr"/></r></p></e>
+    <e><p><l>z<s n="pr"/></l><r>iз<s n="pr"/></r></p></e>
+    <e><p><l>z<s n="pr"/></l><r>з<s n="pr"/></r></p></e>
+    <e><p><l>bez<s n="pr"/></l><r>без<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/></l><r>о<s n="pr"/></r></p></e>
     <e><p><l>zewnątrz<s n="pr"/></l><r>зовніо<s n="pr"/></r></p></e>
     <e><p><l>wewnątrz<s n="pr"/></l><r>усередині<s n="pr"/></r></p></e>
     <e><p><l>dla<s n="pr"/></l><r>для<s n="pr"/></r></p></e>
@@ -2913,5 +2917,6 @@
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>
+    <e><i>!<s n="sent"/></i></e>
   </section>
 </dictionary>
