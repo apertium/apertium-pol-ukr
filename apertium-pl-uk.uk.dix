@@ -5547,92 +5547,129 @@
         </p>
       </e>
     </pardef>
-    <pardef n="фабри/ка__n">
+    <pardef n="PBASE__фабрика">
       <e>
         <p>
-          <l>ка</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>а</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ки</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <l>и</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>у</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ою</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>о</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__фабрика">
+      <e>
+        <p>
+          <l>ці</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ці</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ку</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>кою</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ці</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ко</l>
-          <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ки</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>к</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r></r>
+        </p>
+        <par n="PBASE__фабрика"/>
+      </e>
+    </pardef>
+    <pardef n="PBASE__фабрики">
+      <e>
+        <p>
+          <l>и</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>кам</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <l>ам</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ки</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <l>и</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ками</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <l>ами</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ках</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <l>ах</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ки</l>
-          <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <l>и</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__фабрики">
+      <e>
+        <p>
+          <l>к</l>
+          <r></r>
+        </p>
+        <par n="PBASE__фабрики"/>
+      </e>
+      <e>
+        <p>
+          <l>к</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="фабри/ка__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ка<s n="n"/></r>
+        </p>
+        <par n="BASE__фабрика"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ка<s n="n"/></r>
+        </p>
+        <par n="BASE__фабрики"/>
+      </e>
+    </pardef>
+
     <pardef n="брат__n">
       <e>
         <p>
