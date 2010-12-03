@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3168
+	Entries: 3203
 	Sdefs: 47
 	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out
 
@@ -3254,14 +3254,12 @@
     <e><p><l>delikatność<s n="n"/><s n="f"/></l><r>делікатність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>absolutność<s n="n"/><s n="f"/></l><r>абсолютність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualność<s n="n"/><s n="f"/></l><r>актуальність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aktywność<s n="n"/><s n="f"/></l><r>активність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amoralność<s n="n"/><s n="f"/></l><r>аморальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anonimowość<s n="n"/><s n="f"/></l><r>анонімність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archaiczność<s n="n"/><s n="f"/></l><r>архаїчність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>drażliwość<s n="n"/><s n="f"/></l><r>дратівливість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>duchowość<s n="n"/><s n="f"/></l><r>духовність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dwuznaczność<s n="n"/><s n="f"/></l><r>двозначність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>działalność<s n="n"/><s n="f"/></l><r>діяльність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dzikość<s n="n"/><s n="f"/></l><r>дикість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>efektywność<s n="n"/><s n="f"/></l><r>ефективність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ekonomiczność<s n="n"/><s n="f"/></l><r>економічність<s n="n"/><s n="f"/></r></p></e>
@@ -3273,12 +3271,25 @@
     <e><p><l>formalność<s n="n"/><s n="f"/></l><r>формальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frywolność<s n="n"/><s n="f"/></l><r>фривольність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gładkość<s n="n"/><s n="f"/></l><r>гладкість<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>godność<s n="n"/><s n="f"/></l><r>гідність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gołosłowność<s n="n"/><s n="f"/></l><r>голослівність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gość<s n="n"/><s n="mp"/></l><r>гість<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>gościnność<s n="n"/><s n="f"/></l><r>гостинність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gotowość<s n="n"/><s n="f"/></l><r>готовність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historyczność<s n="n"/><s n="f"/></l><r>історичність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>identyczność<s n="n"/><s n="f"/></l><r>ідентичність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ilość<s n="n"/><s n="f"/></l><r>кількість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>indywidualność<s n="n"/><s n="f"/></l><r>індивідуальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intensywność<s n="n"/><s n="f"/></l><r>інтенсивність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jakość<s n="n"/><s n="f"/></l><r>якість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jedność<s n="n"/><s n="f"/></l><r>єдність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jawność<s n="n"/><s n="f"/></l><r>явність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>materialność<s n="n"/><s n="f"/></l><r>матеріальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>młodość<s n="n"/><s n="f"/></l><r>молодість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>miejscowość<s n="n"/><s n="f"/></l><r>місцевість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mobilność<s n="n"/><s n="f"/></l><r>мобільність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>modalność<s n="n"/><s n="f"/></l><r>модальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>moralność<s n="n"/><s n="f"/></l><r>моральність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nabożność<s n="n"/><s n="f"/></l><r>набожність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>możliwość<s n="n"/><s n="f"/></l><r>можливість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>niedelikatność<s n="n"/><s n="f"/></l><r>неделікатність<s n="n"/><s n="f"/></r></p></e>
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>
