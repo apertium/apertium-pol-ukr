@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3203
+	Entries: 3229
 	Sdefs: 47
 	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out
 
@@ -358,7 +358,6 @@
     <e><p><l>zagraniczny<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
     <e r="LR"><p><l>cudzoziemski<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
     <e><p><l>absolutnie<s n="adv"/></l><r>абсолютно<s n="adv"/></r></p></e>
-    <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
     <e><p><l>lotnictwo<s n="n"/><s n="nt"/></l><r>авіація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automat<s n="n"/><s n="mi"/></l><r>автомат<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>samochód<s n="n"/><s n="mi"/></l><r>автомобіль<s n="n"/><s n="m"/></r></p></e>
@@ -3291,20 +3290,15 @@
     <e><p><l>gościnność<s n="n"/><s n="f"/></l><r>гостинність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historyczność<s n="n"/><s n="f"/></l><r>історичність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>identyczność<s n="n"/><s n="f"/></l><r>ідентичність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ilość<s n="n"/><s n="f"/></l><r>кількість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>indywidualność<s n="n"/><s n="f"/></l><r>індивідуальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>intensywność<s n="n"/><s n="f"/></l><r>інтенсивність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>jakość<s n="n"/><s n="f"/></l><r>якість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jedność<s n="n"/><s n="f"/></l><r>єдність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jawność<s n="n"/><s n="f"/></l><r>явність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>materialność<s n="n"/><s n="f"/></l><r>матеріальність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>młodość<s n="n"/><s n="f"/></l><r>молодість<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>miejscowość<s n="n"/><s n="f"/></l><r>місцевість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mobilność<s n="n"/><s n="f"/></l><r>мобільність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>modalność<s n="n"/><s n="f"/></l><r>модальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>moralność<s n="n"/><s n="f"/></l><r>моральність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nabożność<s n="n"/><s n="f"/></l><r>набожність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>możliwość<s n="n"/><s n="f"/></l><r>можливість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niedelikatność<s n="n"/><s n="f"/></l><r>неделікатність<s n="n"/><s n="f"/></r></p></e>
   </section>
   <section id="punct" type="standard">
