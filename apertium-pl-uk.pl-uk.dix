@@ -1897,7 +1897,7 @@
     <e><p><l>podstawa<s n="n"/><s n="f"/></l><r>основа<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>podstawa<s n="n"/><s n="f"/></l><r>підстава<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>właściwość<s n="n"/><s n="f"/></l><r>властивість<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>zatrzymanie się<s n="n"/><s n="nt"/></l><r>затримання<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>zatrzymanie<s n="n"/><s n="nt"/></l><r>затримання<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pozostałość<s n="n"/><s n="f"/></l><r>залишок<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wyspa<s n="n"/><s n="f"/></l><r>острів<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oś<s n="n"/><s n="f"/></l><r>вісь<s n="n"/><s n="f"/></r></p></e>
@@ -2293,7 +2293,7 @@
     <e><p><l>odległość<s n="n"/><s n="f"/></l><r>відстань<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rozstrzelanie<s n="n"/><s n="nt"/></l><r>розстріл<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rozbrat<s n="n"/><s n="mi"/></l><r>розлад<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>zastanawianie się<s n="n"/><s n="nt"/></l><r>міркування<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>zastanawianie<s n="n"/><s n="nt"/></l><r>міркування<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rozczyn<s n="n"/><s n="mi"/></l><r>розчин<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roślina<s n="n"/><s n="f"/></l><r>рослина<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wydatek<s n="n"/><s n="mi"/></l><r>витрата<s n="n"/><s n="f"/></r></p></e>
@@ -3239,6 +3239,46 @@
     <e><p><l>heterostylia<s n="n"/><s n="f"/></l><r>гетеростилія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heterotopia<s n="n"/><s n="f"/></l><r>гетеротопія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heterotransplantacja<s n="n"/><s n="f"/></l><r>гетеротрансплантація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>banalność<s n="n"/><s n="f"/></l><r>банальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bezkarność<s n="n"/><s n="f"/></l><r>безкарність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bladość<s n="n"/><s n="f"/></l><r>блідість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bliskość<s n="n"/><s n="f"/></l><r>близькість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>brutalność<s n="n"/><s n="f"/></l><r>брутальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chytrość<s n="n"/><s n="f"/></l><r>хитрість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ciężkość<s n="n"/><s n="f"/></l><r>тяжкість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czerstwość<s n="n"/><s n="f"/></l><r>черствість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cześć<s n="n"/><s n="f"/></l><r>честь<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>częstotliwość<s n="n"/><s n="f"/></l><r>частотність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>daremność<s n="n"/><s n="f"/></l><r>даремність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dawność<s n="n"/><s n="f"/></l><r>давність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>delikatność<s n="n"/><s n="f"/></l><r>делікатність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolutność<s n="n"/><s n="f"/></l><r>абсолютність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktualność<s n="n"/><s n="f"/></l><r>актуальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktywność<s n="n"/><s n="f"/></l><r>активність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amoralność<s n="n"/><s n="f"/></l><r>аморальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anonimowość<s n="n"/><s n="f"/></l><r>анонімність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archaiczność<s n="n"/><s n="f"/></l><r>архаїчність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>drażliwość<s n="n"/><s n="f"/></l><r>дратівливість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>duchowość<s n="n"/><s n="f"/></l><r>духовність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dwuznaczność<s n="n"/><s n="f"/></l><r>двозначність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>działalność<s n="n"/><s n="f"/></l><r>діяльність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dzikość<s n="n"/><s n="f"/></l><r>дикість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>efektywność<s n="n"/><s n="f"/></l><r>ефективність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekonomiczność<s n="n"/><s n="f"/></l><r>економічність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekscentryczność<s n="n"/><s n="f"/></l><r>ексцентричність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekstremalność<s n="n"/><s n="f"/></l><r>екстремальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekwiwalentność<s n="n"/><s n="f"/></l><r>еквівалентність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elastyczność<s n="n"/><s n="f"/></l><r>еластичність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fatalność<s n="n"/><s n="f"/></l><r>фатальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>formalność<s n="n"/><s n="f"/></l><r>формальність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>frywolność<s n="n"/><s n="f"/></l><r>фривольність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gładkość<s n="n"/><s n="f"/></l><r>гладкість<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>godność<s n="n"/><s n="f"/></l><r>гідність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gołosłowność<s n="n"/><s n="f"/></l><r>голослівність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gość<s n="n"/><s n="mp"/></l><r>гість<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>gościnność<s n="n"/><s n="f"/></l><r>гостинність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gotowość<s n="n"/><s n="f"/></l><r>готовність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>historyczność<s n="n"/><s n="f"/></l><r>історичність<s n="n"/><s n="f"/></r></p></e>
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>
