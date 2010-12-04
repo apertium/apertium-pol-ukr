@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3259
+	Entries: 3264
 	Sdefs: 47
 	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out
 
@@ -804,6 +804,17 @@
     <e><p><l>zwyczaj<s n="n"/><s n="mi"/></l><r>звичай<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zwierciadło<s n="n"/><s n="nt"/></l><r>дзеркало<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lustro<s n="n"/><s n="nt"/></l><r>люстро<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>adresować<s n="vblex"/><s n="imperf"/></l><r>адресувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aklimatyzować<s n="vblex"/><s n="imperf"/></l><r>акліматизувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aktywować<s n="vblex"/><s n="imperf"/></l><r>активувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>anulować<s n="vblex"/><s n="imperf"/></l><r>анулювати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aresztować<s n="vblex"/><s n="imperf"/></l><r>арештовувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zaaresztować<s n="vblex"/><s n="perf"/></l><r>заарештовувати<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>atakować<s n="vblex"/><s n="imperf"/></l><r>атакувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>automatyzować<s n="vblex"/><s n="imperf"/></l><r>автоматизувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>balsamować<s n="vblex"/><s n="imperf"/></l><r>бальзамувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>biczować<s n="vblex"/><s n="imperf"/></l><r>бичувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>bombardować<s n="vblex"/><s n="imperf"/></l><r>бомбардувати<s n="vblex"/><s n="imperf"/></r></p></e>
 
     <e><p><l>angielski<s n="adj"/></l><r>англійський<s n="adj"/></r></p></e>
     <e><p><l>szwedzki<s n="adj"/></l><r>шведський<s n="adj"/></r></p></e>
