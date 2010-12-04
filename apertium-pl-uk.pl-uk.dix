@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3229
+	Entries: 3259
 	Sdefs: 47
 	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out
 
@@ -284,8 +284,6 @@
     <e><p><l>zielony<s n="adj"/></l><r>зелений<s n="adj"/></r></p></e>
     <e><p><l>ziemnowodny<s n="adj"/></l><r>земноводний<s n="adj"/></r></p></e>
     <e><p><l>ziemny<s n="adj"/></l><r>земний<s n="adj"/></r></p></e>
-    <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
-    <e><p><l>aerodynamiczny<s n="adj"/></l><r>аеродинамічний<s n="adj"/></r></p></e>
     <e><p><l>agrarny<s n="adj"/></l><r>аграрний<s n="adj"/></r></p></e>
     <e><p><l>agresywny<s n="adj"/></l><r>агресивний<s n="adj"/></r></p></e>
     <e><p><l>aktualny<s n="adj"/></l><r>актуальний<s n="adj"/></r></p></e>
@@ -364,7 +362,6 @@
     <e><p><l>noc<s n="n"/><s n="f"/></l><r>ніч<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>twardość<s n="n"/><s n="f"/></l><r>твердість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tydzień<s n="n"/><s n="mi"/></l><r>тиждень<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>administracja<s n="n"/><s n="f"/></l><r>адміністрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delegacja<s n="n"/><s n="f"/></l><r>делегація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demokracja<s n="n"/><s n="f"/></l><r>демократія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>intonacja<s n="n"/><s n="f"/></l><r>інтонація<s n="n"/><s n="f"/></r></p></e>
@@ -402,11 +399,8 @@
     <e><p><l>samochód<s n="n"/><s n="mi"/></l><r>автомобіль<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>autor<s n="n"/><s n="mp"/></l><r>автор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>autorytet<s n="n"/><s n="mp"/></l><r>авторитет<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
-    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>агент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>agencja<s n="n"/><s n="f"/></l><r>агентство<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>piekło<s n="n"/><s n="nt"/></l><r>пекло<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>adwokat<s n="n"/><s n="mp"/></l><r>адвокат<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
-    <e><p><l>admirał<s n="n"/><s n="mp"/></l><r>адмірал<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>Europa<s n="np"/><s n="top"/><s n="f"/></l><r>Європа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>adres<s n="n"/><s n="mi"/></l><r>адреса<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Азія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -805,6 +799,11 @@
     <e><p><l>wirusologia<s n="n"/><s n="f"/></l><r>вірусологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>żandarmeria<s n="n"/><s n="f"/></l><r>жандармерія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>зоологія<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nadzwyczajny<s n="adj"/></l><r>надзвичайний<s n="adj"/></r></p></e>
+    <e><p><l>zwyczajny<s n="adj"/></l><r>звичайний<s n="adj"/></r></p></e>
+    <e><p><l>zwyczaj<s n="n"/><s n="mi"/></l><r>звичай<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>zwierciadło<s n="n"/><s n="nt"/></l><r>дзеркало<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lustro<s n="n"/><s n="nt"/></l><r>люстро<s n="n"/><s n="nt"/></r></p></e>
 
     <e><p><l>angielski<s n="adj"/></l><r>англійський<s n="adj"/></r></p></e>
     <e><p><l>szwedzki<s n="adj"/></l><r>шведський<s n="adj"/></r></p></e>
@@ -2919,14 +2918,12 @@
     <e><p><l>Bułgaria<s n="np"/><s n="top"/><s n="f"/></l><r>Болгарія<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>abazja<s n="n"/><s n="f"/></l><r>абазія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abdukcja<s n="n"/><s n="f"/></l><r>абдукція<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aberracja<s n="n"/><s n="f"/></l><r>аберація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ablacja<s n="n"/><s n="f"/></l><r>абляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abrazja<s n="n"/><s n="f"/></l><r>абразія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abrogacja<s n="n"/><s n="f"/></l><r>аброгація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abrupcja<s n="n"/><s n="f"/></l><r>абрупція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>absolutyzacja<s n="n"/><s n="f"/></l><r>абсолютизація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>absolucja<s n="n"/><s n="f"/></l><r>абсолюція<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>abstrakcja<s n="n"/><s n="f"/></l><r>абстракція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abulia<s n="n"/><s n="f"/></l><r>абулія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autochemoterapia<s n="n"/><s n="f"/></l><r>автогемотерапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autokefalia<s n="n"/><s n="f"/></l><r>автокефалія<s n="n"/><s n="f"/></r></p></e>
@@ -2959,7 +2956,6 @@
     <e><p><l>agromelioracja<s n="n"/><s n="f"/></l><r>агромеліорація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agrometeorologia<s n="n"/><s n="f"/></l><r>агрометеорологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agrochemia<s n="n"/><s n="f"/></l><r>агрохімія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>agitacja<s n="n"/><s n="f"/></l><r>агітація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adiektywizacja<s n="n"/><s n="f"/></l><r>ад'єктивація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adwekcja<s n="n"/><s n="f"/></l><r>адвекція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adhezja<s n="n"/><s n="f"/></l><r>адгезія<s n="n"/><s n="f"/></r></p></e>
@@ -3306,7 +3302,6 @@
     <e><p><l>daremność<s n="n"/><s n="f"/></l><r>даремність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dawność<s n="n"/><s n="f"/></l><r>давність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delikatność<s n="n"/><s n="f"/></l><r>делікатність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>absolutność<s n="n"/><s n="f"/></l><r>абсолютність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualność<s n="n"/><s n="f"/></l><r>актуальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amoralność<s n="n"/><s n="f"/></l><r>аморальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anonimowość<s n="n"/><s n="f"/></l><r>анонімність<s n="n"/><s n="f"/></r></p></e>
