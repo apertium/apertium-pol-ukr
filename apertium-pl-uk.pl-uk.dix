@@ -168,7 +168,46 @@
     <e><p><l>energia<s n="n"/><s n="f"/></l><r>енергія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eksport<s n="n"/><s n="mi"/></l><r>експорт<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eksportować<s n="vblex"/><s n="imperf"/></l><r>експортувати<s n="vblex"/><s n="imperf"/></r></p></e>
-
+    <e><p><l>bezpłatnie<s n="adv"/></l><r>безплатно<s n="adv"/></r></p></e>
+    <e><p><l>aceton<s n="n"/><s n="mi"/></l><r>ацетон<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>acetylen<s n="n"/><s n="mi"/></l><r>ацетилен<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>адаптація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adiutant<s n="n"/><s n="mp"/></l><r>ад'ютант<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>abstrakcja<s n="n"/><s n="f"/></l><r>абстракція<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstrakt<s n="n"/><s n="mi"/></l><r>абстракт<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abonent<s n="n"/><s n="mp"/></l><r>абонент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>aborcja<s n="n"/><s n="f"/></l><r>аборт<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abrakadabra<s n="n"/><s n="f"/></l><r>абракадабра<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolut<s n="n"/><s n="mi"/></l><r>абсолют<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>absolutność<s n="n"/><s n="f"/></l><r>абсолютність<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
+    <e><p><l>absorbent<s n="n"/><s n="mi"/></l><r>абсорбент<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>absorber<s n="n"/><s n="mi"/></l><r>абсорбер<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aberracja<s n="n"/><s n="f"/></l><r>аберація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>administracja<s n="n"/><s n="f"/></l><r>адміністрація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ach<s n="ij"/></l><r>ах<s n="ij"/></r></p></e>
+    <e><p><l>adapter<s n="n"/><s n="mi"/></l><r>адаптер<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>administrator<s n="n"/><s n="mp"/></l><r>адміністратор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>administratorski<s n="adj"/></l><r>адміністраторський<s n="adj"/></r></p></e>
+    <e><p><l>admirał<s n="n"/><s n="mp"/></l><r>адмірал<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>admiralski<s n="adj"/></l><r>адміральський<s n="adj"/></r></p></e>
+    <e><p><l>adresat<s n="n"/><s n="mp"/></l><r>адресат<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>adresować<s n="vblex"/><s n="imperf"/></l><r>адресувати<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>adwokat<s n="n"/><s n="mp"/></l><r>адвокат<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>aerodrom<s n="n"/><s n="mi"/></l><r>аеродром<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adwokatura<s n="n"/><s n="f"/></l><r>адвокатура<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aeracja<s n="n"/><s n="f"/></l><r>аерація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aerodynamiczny<s n="adj"/></l><r>аеродинамічний<s n="adj"/></r></p></e>
+    <e><p><l>aeroport<s n="n"/><s n="mi"/></l><r>аеропорт<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aerostat<s n="n"/><s n="mi"/></l><r>аеростат<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aerozol<s n="n"/><s n="mi"/></l><r>аерозоль<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agat<s n="n"/><s n="mi"/></l><r>агат<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agawa<s n="n"/><s n="f"/></l><r>агава<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>агент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
+    <e><p><l>afront<s n="n"/><s n="mi"/></l><r>афронт<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agregat<s n="n"/><s n="mi"/></l><r>агрегат<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agitacja<s n="n"/><s n="f"/></l><r>агітація<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agitator<s n="n"/><s n="mp"/></l><r>агітатор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
 
     <e><p><l>głos<s n="n"/><s n="mi"/></l><r>голос<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>góra<s n="n"/><s n="f"/></l><r>гора<s n="n"/><s n="f"/></r></p></e>
