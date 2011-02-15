@@ -26213,48 +26213,66 @@
         <par n="BASE__zenit"/>
       </e>
     </pardef>
+    <pardef n="PBASE__mężczyzna">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__mężczyzna">
+      <e>
+        <p>
+          <l>źnie</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źnie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zn</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
+      </e>
+    </pardef>
     <pardef n="mężczy/zna__n">
       <e>
         <p>
-          <l>zna</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r>zna<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>zny</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>źnie</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>znę</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zną</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>źnie</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zno</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="BASE__mężczyzna"/>
       </e>
       <e>
         <p>
@@ -26297,6 +26315,99 @@
           <l>źni</l>
           <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__poeta">
+      <e>
+        <p>
+          <l>cie</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
+      </e>
+    </pardef>
+    <pardef n="poe/ta__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ta<s n="n"/></r>
+        </p>
+        <par n="BASE__poeta"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tów</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tom</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tów</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tami</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tach</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__artysta">
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>st</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
       </e>
     </pardef>
     <pardef n="zwierz/ę__n">
@@ -41776,9 +41887,6 @@
     <e lm="czynny"><i>czynn</i><par n="now/y__adj"/></e>
     <e lm="czynny"><p><l>czynniej</l><r>czynny</r></p><par n="lep/szy__adj"/></e>
     <e lm="czynny"><p><l>najczynniej</l><r>czynny</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="ekonomiczny"><i>ekonomiczn</i><par n="now/y__adj"/></e>
-    <e lm="ekonomiczny"><p><l>ekonomiczniej</l><r>ekonomiczny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="ekonomiczny"><p><l>najekonomiczniej</l><r>ekonomiczny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="gwałtowny"><i>gwałtown</i><par n="now/y__adj"/></e>
     <e lm="gwałtowny"><p><l>gwałtowniej</l><r>gwałtowny</r></p><par n="lep/szy__adj"/></e>
     <e lm="gwałtowny"><p><l>najgwałtowniej</l><r>gwałtowny</r></p><par n="najlep/szy__adj"/></e>
@@ -42717,6 +42825,9 @@
     <e lm="najżółtszy" r="LR"><p><l>najżółt</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
+    <e lm="ekonomiczny"><i>ekonomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ekonomiczny"><p><l>ekonomiczniej</l><r>ekonomiczny</r></p><par n="żółt/szy__adj"/></e>
+    <e lm="ekonomiczny"><p><l>najekonomiczniej</l><r>ekonomiczny</r></p><par n="najżółt/szy__adj"/></e>
 
     <e lm="cherlawy"><i>cherlaw</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="szalony"><i>szal</i><par n="szal/ony__adj"/></e>
@@ -46523,214 +46634,6 @@
     <e lm="dysydent"><i>dysyden</i><par n="studen/t__n"/></e>
     <e lm="dół"><i>d</i><par n="st/ół__n"/></e>
     <e lm="egzystencjalizm"><i>egzystencjalizm</i><par n="sklep__n"/></e>
-    <e lm="automobilizm"><i>automobilizm</i><par n="sklep__n"/></e>
-    <e lm="automorfizm"><i>automorfizm</i><par n="sklep__n"/></e>
-    <e lm="aktualizm"><i>aktualizm</i><par n="sklep__n"/></e>
-    <e lm="albinizm"><i>albinizm</i><par n="sklep__n"/></e>
-    <e lm="alogizm"><i>alogizm</i><par n="sklep__n"/></e>
-    <e lm="amerykanizm"><i>amerykanizm</i><par n="sklep__n"/></e>
-    <e lm="amoralizm"><i>amoralizm</i><par n="sklep__n"/></e>
-    <e lm="amorfizm"><i>amorfizm</i><par n="sklep__n"/></e>
-    <e lm="anabolizm"><i>anabolizm</i><par n="sklep__n"/></e>
-    <e lm="anarcho"><i>anarcho</i><par n="sklep__n"/></e>
-    <e lm="aneksjonizm"><i>aneksjonizm</i><par n="sklep__n"/></e>
-    <e lm="animalizm"><i>animalizm</i><par n="sklep__n"/></e>
-    <e lm="animizm"><i>animizm</i><par n="sklep__n"/></e>
-    <e lm="antagonizm"><i>antagonizm</i><par n="sklep__n"/></e>
-    <e lm="antyhumanizm"><i>antyhumanizm</i><par n="sklep__n"/></e>
-    <e lm="antyintelektualizm"><i>antyintelektualizm</i><par n="sklep__n"/></e>
-    <e lm="antylogizm"><i>antylogizm</i><par n="sklep__n"/></e>
-    <e lm="antyrealizm"><i>antyrealizm</i><par n="sklep__n"/></e>
-    <e lm="arabizm"><i>arabizm</i><par n="sklep__n"/></e>
-    <e lm="atomizm"><i>atomizm</i><par n="sklep__n"/></e>
-    <e lm="bajronizm"><i>bajronizm</i><par n="sklep__n"/></e>
-    <e lm="bimetalizm"><i>bimetalizm</i><par n="sklep__n"/></e>
-    <e lm="biologizm"><i>biologizm</i><par n="sklep__n"/></e>
-    <e lm="biseksualizm"><i>biseksualizm</i><par n="sklep__n"/></e>
-    <e lm="bohemizm"><i>bohemizm</i><par n="sklep__n"/></e>
-    <e lm="botulizm"><i>botulizm</i><par n="sklep__n"/></e>
-    <e lm="werbalizm"><i>werbalizm</i><par n="sklep__n"/></e>
-    <e lm="wizualizm"><i>wizualizm</i><par n="sklep__n"/></e>
-    <e lm="witalizm"><i>witalizm</i><par n="sklep__n"/></e>
-    <e lm="wokalizm"><i>wokalizm</i><par n="sklep__n"/></e>
-    <e lm="wulkanizm"><i>wulkanizm</i><par n="sklep__n"/></e>
-    <e lm="hegemonizm"><i>hegemonizm</i><par n="sklep__n"/></e>
-    <e lm="hedonizm"><i>hedonizm</i><par n="sklep__n"/></e>
-    <e lm="heliotropizm"><i>heliotropizm</i><par n="sklep__n"/></e>
-    <e lm="geotropizm"><i>geotropizm</i><par n="sklep__n"/></e>
-    <e lm="germanizm"><i>germanizm</i><par n="sklep__n"/></e>
-    <e lm="heteromorfizm"><i>heteromorfizm</i><par n="sklep__n"/></e>
-    <e lm="heteroseksualizm"><i>heteroseksualizm</i><par n="sklep__n"/></e>
-    <e lm="hiperbolizm"><i>hiperbolizm</i><par n="sklep__n"/></e>
-    <e lm="globalizm"><i>globalizm</i><par n="sklep__n"/></e>
-    <e lm="homeomorfizm"><i>homeomorfizm</i><par n="sklep__n"/></e>
-    <e lm="homomorfizm"><i>homomorfizm</i><par n="sklep__n"/></e>
-    <e lm="homoseksualizm"><i>homoseksualizm</i><par n="sklep__n"/></e>
-    <e lm="daltonizm"><i>daltonizm</i><par n="sklep__n"/></e>
-    <e lm="dezurbanizm"><i>dezurbanizm</i><par n="sklep__n"/></e>
-    <e lm="demonizm"><i>demonizm</i><par n="sklep__n"/></e>
-    <e lm="dermografizm"><i>dermografizm</i><par n="sklep__n"/></e>
-    <e lm="dżajnizm"><i>dżajnizm</i><par n="sklep__n"/></e>
-    <e lm="dimorfizm"><i>dimorfizm</i><par n="sklep__n"/></e>
-    <e lm="dynamizm"><i>dynamizm</i><par n="sklep__n"/></e>
-    <e lm="dynamometamorfizm"><i>dynamometamorfizm</i><par n="sklep__n"/></e>
-    <e lm="dokumentalizm"><i>dokumentalizm</i><par n="sklep__n"/></e>
-    <e lm="eudemonizm"><i>eudemonizm</i><par n="sklep__n"/></e>
-    <e lm="ewolucjonizm"><i>ewolucjonizm</i><par n="sklep__n"/></e>
-    <e lm="eurofundamentalizm"><i>eurofundamentalizm</i><par n="sklep__n"/></e>
-    <e lm="ekonomizm"><i>ekonomizm</i><par n="sklep__n"/></e>
-    <e lm="ekspansjonizm"><i>ekspansjonizm</i><par n="sklep__n"/></e>
-    <e lm="ekspresjonizm"><i>ekspresjonizm</i><par n="sklep__n"/></e>
-    <e lm="ekstremizm"><i>ekstremizm</i><par n="sklep__n"/></e>
-    <e lm="ekumenizm"><i>ekumenizm</i><par n="sklep__n"/></e>
-    <e lm="emotywizm"><i>emotywizm</i><par n="sklep__n"/></e>
-    <e lm="empiriomonizm"><i>empiriomonizm</i><par n="sklep__n"/></e>
-    <e lm="endemizm"><i>endemizm</i><par n="sklep__n"/></e>
-    <e lm="endomorfizm"><i>endomorfizm</i><par n="sklep__n"/></e>
-    <e lm="eskapizm"><i>eskapizm</i><par n="sklep__n"/></e>
-    <e lm="żargonizm"><i>żargonizm</i><par n="sklep__n"/></e>
-    <e lm="zoomorfizm"><i>zoomorfizm</i><par n="sklep__n"/></e>
-    <e lm="idealizm"><i>idealizm</i><par n="sklep__n"/></e>
-    <e lm="izomorfizm"><i>izomorfizm</i><par n="sklep__n"/></e>
-    <e lm="izochronizm"><i>izochronizm</i><par n="sklep__n"/></e>
-    <e lm="iluzjonizm"><i>iluzjonizm</i><par n="sklep__n"/></e>
-    <e lm="imażynizm"><i>imażynizm</i><par n="sklep__n"/></e>
-    <e lm="immoralizm"><i>immoralizm</i><par n="sklep__n"/></e>
-    <e lm="indeterminizm"><i>indeterminizm</i><par n="sklep__n"/></e>
-    <e lm="instrumentalizm"><i>instrumentalizm</i><par n="sklep__n"/></e>
-    <e lm="intelektualizm"><i>intelektualizm</i><par n="sklep__n"/></e>
-    <e lm="internacjonalizm"><i>internacjonalizm</i><par n="sklep__n"/></e>
-    <e lm="intuitywizm"><i>intuitywizm</i><par n="sklep__n"/></e>
-    <e lm="infantylizm"><i>infantylizm</i><par n="sklep__n"/></e>
-    <e lm="irracjonalizm"><i>irracjonalizm</i><par n="sklep__n"/></e>
-    <e lm="islamizm"><i>islamizm</i><par n="sklep__n"/></e>
-    <e lm="kataklizm"><i>kataklizm</i><par n="sklep__n"/></e>
-    <e lm="klerykalizm"><i>klerykalizm</i><par n="sklep__n"/></e>
-    <e lm="kolaboracjonizm"><i>kolaboracjonizm</i><par n="sklep__n"/></e>
-    <e lm="komensalizm"><i>komensalizm</i><par n="sklep__n"/></e>
-    <e lm="komizm"><i>komizm</i><par n="sklep__n"/></e>
-    <e lm="komparatywizm"><i>komparatywizm</i><par n="sklep__n"/></e>
-    <e lm="konwencjonalizm"><i>konwencjonalizm</i><par n="sklep__n"/></e>
-    <e lm="konstytucjonalizm"><i>konstytucjonalizm</i><par n="sklep__n"/></e>
-    <e lm="konformizm"><i>konformizm</i><par n="sklep__n"/></e>
-    <e lm="konceptualizm"><i>konceptualizm</i><par n="sklep__n"/></e>
-    <e lm="kreacjonizm"><i>kreacjonizm</i><par n="sklep__n"/></e>
-    <e lm="kryptorchizm"><i>kryptorchizm</i><par n="sklep__n"/></e>
-    <e lm="kubizm"><i>kubizm</i><par n="sklep__n"/></e>
-    <e lm="lakonizm"><i>lakonizm</i><par n="sklep__n"/></e>
-    <e lm="latynizm"><i>latynizm</i><par n="sklep__n"/></e>
-    <e lm="legitymizm"><i>legitymizm</i><par n="sklep__n"/></e>
-    <e lm="masochizm"><i>masochizm</i><par n="sklep__n"/></e>
-    <e lm="makaronizm"><i>makaronizm</i><par n="sklep__n"/></e>
-    <e lm="makroorganizm"><i>makroorganizm</i><par n="sklep__n"/></e>
-    <e lm="maksymalizm"><i>maksymalizm</i><par n="sklep__n"/></e>
-    <e lm="machizm"><i>machizm</i><par n="sklep__n"/></e>
-    <e lm="mendelizm"><i>mendelizm</i><par n="sklep__n"/></e>
-    <e lm="mesjanizm"><i>mesjanizm</i><par n="sklep__n"/></e>
-    <e lm="metamorfizm"><i>metamorfizm</i><par n="sklep__n"/></e>
-    <e lm="monarchizm"><i>monarchizm</i><par n="sklep__n"/></e>
-    <e lm="monizm"><i>monizm</i><par n="sklep__n"/></e>
-    <e lm="monometalizm"><i>monometalizm</i><par n="sklep__n"/></e>
-    <e lm="monopolizm"><i>monopolizm</i><par n="sklep__n"/></e>
-    <e lm="moralizm"><i>moralizm</i><par n="sklep__n"/></e>
-    <e lm="morganizm"><i>morganizm</i><par n="sklep__n"/></e>
-    <e lm="morfinizm"><i>morfinizm</i><par n="sklep__n"/></e>
-    <e lm="mutualizm"><i>mutualizm</i><par n="sklep__n"/></e>
-    <e lm="nanizm"><i>nanizm</i><par n="sklep__n"/></e>
-    <e lm="natywizm"><i>natywizm</i><par n="sklep__n"/></e>
-    <e lm="negatywizm"><i>negatywizm</i><par n="sklep__n"/></e>
-    <e lm="neowitalizm"><i>neowitalizm</i><par n="sklep__n"/></e>
-    <e lm="neoimpresjonizm"><i>neoimpresjonizm</i><par n="sklep__n"/></e>
-    <e lm="neokolonializm"><i>neokolonializm</i><par n="sklep__n"/></e>
-    <e lm="neoliberalizm"><i>neoliberalizm</i><par n="sklep__n"/></e>
-    <e lm="neoplatonizm"><i>neoplatonizm</i><par n="sklep__n"/></e>
-    <e lm="neopozytywizm"><i>neopozytywizm</i><par n="sklep__n"/></e>
-    <e lm="neorealizm"><i>neorealizm</i><par n="sklep__n"/></e>
-    <e lm="neotomizm"><i>neotomizm</i><par n="sklep__n"/></e>
-    <e lm="neofeudalizm"><i>neofeudalizm</i><par n="sklep__n"/></e>
-    <e lm="neptunizm"><i>neptunizm</i><par n="sklep__n"/></e>
-    <e lm="nominalizm"><i>nominalizm</i><par n="sklep__n"/></e>
-    <e lm="nonkonformizm"><i>nonkonformizm</i><par n="sklep__n"/></e>
-    <e lm="obstrukcjonizm"><i>obstrukcjonizm</i><par n="sklep__n"/></e>
-    <e lm="orientalizm"><i>orientalizm</i><par n="sklep__n"/></e>
-    <e lm="panamerykanizm"><i>panamerykanizm</i><par n="sklep__n"/></e>
-    <e lm="panarabizm"><i>panarabizm</i><par n="sklep__n"/></e>
-    <e lm="pangermanizm"><i>pangermanizm</i><par n="sklep__n"/></e>
-    <e lm="panislamizm"><i>panislamizm</i><par n="sklep__n"/></e>
-    <e lm="panlogizm"><i>panlogizm</i><par n="sklep__n"/></e>
-    <e lm="panpsychizm"><i>panpsychizm</i><par n="sklep__n"/></e>
-    <e lm="panslawizm"><i>panslawizm</i><par n="sklep__n"/></e>
-    <e lm="panturkizm"><i>panturkizm</i><par n="sklep__n"/></e>
-    <e lm="papizm"><i>papizm</i><par n="sklep__n"/></e>
-    <e lm="paralelizm"><i>paralelizm</i><par n="sklep__n"/></e>
-    <e lm="paralogizm"><i>paralogizm</i><par n="sklep__n"/></e>
-    <e lm="parachronizm"><i>parachronizm</i><par n="sklep__n"/></e>
-    <e lm="parkinsonizm"><i>parkinsonizm</i><par n="sklep__n"/></e>
-    <e lm="paternalizm"><i>paternalizm</i><par n="sklep__n"/></e>
-    <e lm="pacyfizm"><i>pacyfizm</i><par n="sklep__n"/></e>
-    <e lm="platonizm"><i>platonizm</i><par n="sklep__n"/></e>
-    <e lm="plutonizm"><i>plutonizm</i><par n="sklep__n"/></e>
-    <e lm="poligenizm"><i>poligenizm</i><par n="sklep__n"/></e>
-    <e lm="polimorfizm"><i>polimorfizm</i><par n="sklep__n"/></e>
-    <e lm="polonizm"><i>polonizm</i><par n="sklep__n"/></e>
-    <e lm="postmodernizm"><i>postmodernizm</i><par n="sklep__n"/></e>
-    <e lm="prymitywizm"><i>prymitywizm</i><par n="sklep__n"/></e>
-    <e lm="prowidencjalizm"><i>prowidencjalizm</i><par n="sklep__n"/></e>
-    <e lm="prowincjalizm"><i>prowincjalizm</i><par n="sklep__n"/></e>
-    <e lm="profesjonalizm"><i>profesjonalizm</i><par n="sklep__n"/></e>
-    <e lm="prudonizm"><i>prudonizm</i><par n="sklep__n"/></e>
-    <e lm="pseudomorfizm"><i>pseudomorfizm</i><par n="sklep__n"/></e>
-    <e lm="psychologizm"><i>psychologizm</i><par n="sklep__n"/></e>
-    <e lm="purytanizm"><i>purytanizm</i><par n="sklep__n"/></e>
-    <e lm="radykalizm"><i>radykalizm</i><par n="sklep__n"/></e>
-    <e lm="rewizjonizm"><i>rewizjonizm</i><par n="sklep__n"/></e>
-    <e lm="rewolucjonizm"><i>rewolucjonizm</i><par n="sklep__n"/></e>
-    <e lm="reotropizm"><i>reotropizm</i><par n="sklep__n"/></e>
-    <e lm="reformizm"><i>reformizm</i><par n="sklep__n"/></e>
-    <e lm="romanizm"><i>romanizm</i><par n="sklep__n"/></e>
-    <e lm="rojalizm"><i>rojalizm</i><par n="sklep__n"/></e>
-    <e lm="sadomasochizm"><i>sadomasochizm</i><par n="sklep__n"/></e>
-    <e lm="satanizm"><i>satanizm</i><par n="sklep__n"/></e>
-    <e lm="saturnizm"><i>saturnizm</i><par n="sklep__n"/></e>
-    <e lm="seksualizm"><i>seksualizm</i><par n="sklep__n"/></e>
-    <e lm="sensualizm"><i>sensualizm</i><par n="sklep__n"/></e>
-    <e lm="serwilizm"><i>serwilizm</i><par n="sklep__n"/></e>
-    <e lm="sylogizm"><i>sylogizm</i><par n="sklep__n"/></e>
-    <e lm="syndykalizm"><i>syndykalizm</i><par n="sklep__n"/></e>
-    <e lm="synergizm"><i>synergizm</i><par n="sklep__n"/></e>
-    <e lm="synchronizm"><i>synchronizm</i><par n="sklep__n"/></e>
-    <e lm="somnambulizm"><i>somnambulizm</i><par n="sklep__n"/></e>
-    <e lm="sofizm"><i>sofizm</i><par n="sklep__n"/></e>
-    <e lm="socjal"><i>socjal</i><par n="sklep__n"/></e>
-    <e lm="socjal"><i>socjal</i><par n="sklep__n"/></e>
-    <e lm="socjal"><i>socjal</i><par n="sklep__n"/></e>
-    <e lm="socjologizm"><i>socjologizm</i><par n="sklep__n"/></e>
-    <e lm="socrealizm"><i>socrealizm</i><par n="sklep__n"/></e>
-    <e lm="spirytualizm"><i>spirytualizm</i><par n="sklep__n"/></e>
-    <e lm="strabizm"><i>strabizm</i><par n="sklep__n"/></e>
-    <e lm="supermodernizm"><i>supermodernizm</i><par n="sklep__n"/></e>
-    <e lm="sufizm"><i>sufizm</i><par n="sklep__n"/></e>
-    <e lm="terminizm"><i>terminizm</i><par n="sklep__n"/></e>
-    <e lm="termometamorfizm"><i>termometamorfizm</i><par n="sklep__n"/></e>
-    <e lm="termotropizm"><i>termotropizm</i><par n="sklep__n"/></e>
-    <e lm="tragizm"><i>tragizm</i><par n="sklep__n"/></e>
-    <e lm="tradycjonalizm"><i>tradycjonalizm</i><par n="sklep__n"/></e>
-    <e lm="transformizm"><i>transformizm</i><par n="sklep__n"/></e>
-    <e lm="tropizm"><i>tropizm</i><par n="sklep__n"/></e>
-    <e lm="trockizm"><i>trockizm</i><par n="sklep__n"/></e>
-    <e lm="uniwersalizm"><i>uniwersalizm</i><par n="sklep__n"/></e>
-    <e lm="unionizm"><i>unionizm</i><par n="sklep__n"/></e>
-    <e lm="urbanizm"><i>urbanizm</i><par n="sklep__n"/></e>
-    <e lm="fatalizm"><i>fatalizm</i><par n="sklep__n"/></e>
-    <e lm="federalizm"><i>federalizm</i><par n="sklep__n"/></e>
-    <e lm="fenomenalizm"><i>fenomenalizm</i><par n="sklep__n"/></e>
-    <e lm="formalizm"><i>formalizm</i><par n="sklep__n"/></e>
-    <e lm="fototropizm"><i>fototropizm</i><par n="sklep__n"/></e>
-    <e lm="frazeologizm"><i>frazeologizm</i><par n="sklep__n"/></e>
-    <e lm="funkcjonalizm"><i>funkcjonalizm</i><par n="sklep__n"/></e>
-    <e lm="chemotropizm"><i>chemotropizm</i><par n="sklep__n"/></e>
-    <e lm="centralizm"><i>centralizm</i><par n="sklep__n"/></e>
-    <e lm="szamanizm"><i>szamanizm</i><par n="sklep__n"/></e>
     <e lm="ekumena"><i>ekumen</i><par n="analiz/a__n"/></e>
     <e lm="emanacja"><i>emanac</i><par n="dysertac/ja__n"/></e>
     <e lm="entropia"><i>entropi</i><par n="filozofi/a__n"/></e>
@@ -47294,6 +47197,8 @@
     <e lm="altymetr"><i>altymetr</i><par n="enter__n"/></e>
     <e lm="altimetr"><i>altimetr</i><par n="enter__n"/></e>
     <e lm="amatorszczyzna"><i>amatorszczy</i><par n="truci/zna__n"/></e>
+    <e lm="poeta"><i>poe</i><par n="poe/ta__n"/></e>
+    <e lm="autodydakta"><i>autodydak</i><par n="poe/ta__n"/></e>
     <e lm="amazonka"><i>amazon</i><par n="mat/ka__n"/></e>
     <e lm="ambicja"><i>ambic</i><par n="dysertac/ja__n"/></e>
     <e lm="ambligonit"><i>ambligoni</i><par n="zeni/t__n"/></e>
@@ -49153,7 +49058,8 @@
     <e lm="tonika"><i>toni</i><par n="rze/ka__n"/></e>
     <e lm="torcik"><i>torcik</i><par n="kajak__n"/></e>
     <e lm="torfowiec"><i>torfow</i><par n="lip/iec__n"/></e>
-    <e lm="torreador"><i>torreador</i><par n="aktor__n"/></e>
+    <e lm="torreador" r="LR"><i>torreador</i><par n="aktor__n"/></e>
+    <e lm="toreador"><i>toreador</i><par n="aktor__n"/></e>
     <e lm="tortura"><i>tortur</i><par n="viagr/a__n"/></e>
     <e lm="toster"><i>toster</i><par n="telewizor__n"/></e>
     <e lm="towaroznawstwo"><i>towaroznawstw</i><par n="nieb/o__n"/></e>
