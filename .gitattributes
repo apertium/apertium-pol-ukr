@@ -17,6 +17,7 @@
 /apertium-pl-uk.uk-pl.t1x -text
 /apertium-pl-uk.uk-pl.t2x -text
 /apertium-pl-uk.uk-pl.t3x -text
+/apertium-pl-uk.uk.acx -text
 /apertium-pl-uk.uk.dix -text
 /autogen.sh -text
 /configure.ac -text
