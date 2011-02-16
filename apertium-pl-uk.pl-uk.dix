@@ -57,6 +57,7 @@
     <sdef n="pos" 	c=""/> 
     <sdef n="top" 	c="топонім"/> 
     <sdef n="sent" 	c=""/> 
+    <sdef n="vaux" 	c=""/> 
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>jeśli<s n="cnjadv"/></l><r>якщо<s n="cnjadv"/></r></p></e>
@@ -66,6 +67,8 @@
 
     <e><p><l>i<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
     <e><p><l>a<s n="cnjcoo"/></l><r>а<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>można<s n="vaux"/></l><r>можна<s n="vaux"/></r></p></e>
     
     <e><p><l>sto<s n="num"/></l><r>сто<s n="num"/></r></p></e>
     <e><p><l>czterdzieści<s n="num"/></l><r>сорок<s n="num"/></r></p></e>

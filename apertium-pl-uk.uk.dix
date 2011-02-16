@@ -73,6 +73,7 @@
     <sdef n="sup" 	c=""/> 
     <sdef n="sent" 	c=""/> 
     <sdef n="sp" 	c=""/> 
+    <sdef n="vaux" 	c=""/> 
   </sdefs>
   <pardefs>
 <pardef n="separa">
@@ -116,6 +117,9 @@
 
 <pardef n="про__pr">
   <e><p><l></l><r><s n="pr"/></r></p></e>
+</pardef>
+<pardef n="можна__vaux">
+  <e><p><l></l><r><s n="vaux"/></r></p></e>
 </pardef>
 <pardef n="де__adv">
   <e><p><l></l><r><s n="adv"/><s n="itg"/></r></p></e>
@@ -1628,6 +1632,7 @@
   </pardefs>
 
   <section id="main" type="standard">
+<e lm="можна"><i>можна</i><par n="можна__vaux"/></e>
     <!-- ******************************
           group prn
       ****************************** -->
