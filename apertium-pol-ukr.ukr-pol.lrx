@@ -1,0 +1,97 @@
+<rules>
+  <rule>
+    <match lemma="потужний" tags="adj.sint.sup.*"><select lemma="наймогучий" tags="adj.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="рік" tags="n.*"><select lemma="год²" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="установа" tags="n.*"><select lemma="учреждение" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="садок" tags="n.*"><select lemma="сад" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="у"/>
+    <or>
+      <match tags="prn.pers.*.*.*.gen"/>
+      <match tags="n.*.*.*.gen"/>
+    </or>
+    <match lemma="бути" tags="vbser.pres.*"><select lemma="быть"/></match>
+  </rule>  
+  <rule>
+    <or>
+      <match lemma="поки"/><match lemma="тут"/>
+    </or>
+    <match lemma="бути" tags="vbser.pres.*"><select lemma="быть"/></match>
+  </rule>  
+  <rule>
+    <match lemma="бути" tags="vbser.pres.*"><select lemma="являться"/></match>
+  </rule>  
+  <rule>
+    <match lemma="хата" tags="n.*"><select lemma="дом" tags="n.*"/></match>
+  </rule>
+  <rule> <!-- Адже нелегальні іммігранти почнуть платити податки у скарбницю країни. -->
+    <match lemma="податок" tags="n.*"/>
+    <match/>
+    <match lemma="скарбниця" tags="n.*"><select lemma="казна" tags="n.*"/></match>
+  </rule>
+  <rule> <!-- Вони вимагають, щоб ви довели, що американці не хочуть цієї роботи, а це майже неможливо. -->
+    <match lemma="довести" tags="vblex.*"><select lemma="доказать" tags="vblex.*"/></match>
+    <match lemma="," tags="cm"/>
+    <match lemma="що" tags="prn.*"/>
+  </rule>
+  <rule> <!-- Ферма розміром майже три тисячі гектарів, розташована на півдні штату Аризона. -->
+    <match lemma="південь" tags="n.*"><select lemma="юг" tags="n.*"/></match>
+    <match lemma="штат" tags="n.*"/>
+  </rule>
+  <rule> <!-- лише трохи більше десяти відсотків було відділено для працівників агрокомплексу. -->
+    <match lemma="відділити" tags="vblex.*"><select lemma="выделить" tags="vblex.*"/></match>
+    <match lemma="для" tags="pr.*"/>
+  </rule>
+  <rule>
+    <match lemma="йтися" tags="vblex.*"><select lemma="речь идти" tags="vblex.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="мовний" tags="adj.*"><select lemma="языковой" tags="adj.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="розглянути" tags="vblex.*"><select lemma="рассмотреть" tags="vblex.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="один"/>
+    <match lemma="з" tags="pr.*"><select lemma="из"/></match>
+    <or>
+      <match tags="adj.*.*.*.*.gen"/>
+      <match tags="adj.*.*.*.*.*.gen"/>
+      <match tags="n.*.*.*.gen"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="через"><select lemma="из-за"/></match>
+    <match lemma="той"/>
+    <match lemma=","/>
+    <or>
+      <match lemma="що"/>
+      <match lemma="куди"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="про"><select lemma="о"/></match>
+    <match lemma="той"/>
+    <match lemma=","/>
+    <or>
+      <match lemma="що"/>
+      <match lemma="куди"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="саме" tags="adv"><select lemma="именно" tags="adv"/></match>
+  </rule>
+
+
+
+</rules>
