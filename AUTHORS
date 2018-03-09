@@ -1,3 +1,8 @@
 This module is derived from apertium-pl-uk. The authors of apertium-pl-uk were:
 Jim O'Regan
 Oresta Tymchyshyn
+
+The Ukrainian to Polish rules are derived from apertium-pl-cs. The authors of apertium-pl-cs were:
+Jim O'Regan
+Joanna Nowakowska (née Ruth)
+Francis Tyers
