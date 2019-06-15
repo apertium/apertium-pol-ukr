@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Polish-Russian], [0.2.0], [kiryukhinv@gmail.com], [apertium-pol-ukr], [http://wiki.apertium.org/wiki/Apertium-pol-ukr])
+AC_INIT([Apertium Polish-Ukranian], [0.2.0], [kiryukhinv@gmail.com], [apertium-pol-ukr], [http://wiki.apertium.org/wiki/Polish_and_Ukrainian])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
