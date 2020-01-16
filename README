@@ -1,0 +1,93 @@
+Polish and Ukranian: `apertium-pol-ukr`
+===============================================================================
+
+This is an Apertium language pair for translating between Polish and
+Ukranian. What you can use this language package for:
+
+* Translating between Polish and Ukranian
+* Morphological analysis of Polish and Ukranian
+* Part-of-speech tagging of Polish and Ukranian
+
+For information on the latter two points, see subheading "For more
+information" below.
+
+Requirements
+-------------------------------------------------------------------------------
+
+You will need the following software installed:
+
+* lttoolbox (>= 3.3.0)
+* apertium (>= 3.3.0)
+* vislcg3 (>= 0.9.9.10297)
+* apertium-pol
+* apertium-ukr
+
+If this does not make any sense, we recommend you look at: www.apertium.org.
+
+Compiling
+-------------------------------------------------------------------------------
+
+Given the requirements being installed, you should be able to just run:
+
+```console
+$ ./configure
+$ make
+# make install
+```
+
+You can use `./autogen.sh` instead of `./configure` in case you're compiling
+from source. If you installed any prerequisite language packages using a
+`--prefix` with `./configure`, make sure to use the same `--prefix` when running
+`./configure` here.
+
+Testing
+-------------------------------------------------------------------------------
+
+If you are in the source directory after running make, the following
+commands should work:
+
+```console
+$ echo "TODO test sentence 1" | apertium -d . pol-ukr
+TODO test translated sentence 1
+
+$ echo "TODO test sentence 2" | apertium -d . ukr-pol
+TODO test translated sentence 2
+```
+
+After installing somewhere in `$PATH`, you should be able to do e.g.
+
+```console
+$ echo "TODO test sentence 1" | apertium pol-ukr
+TODO test translated sentence 1
+```
+
+Files and data
+-------------------------------------------------------------------------------
+
+* [`apertium-pol-ukr.pol-ukr.dix`](apertium-pol-ukr.pol-ukr.dix) - Bilingual dictionary
+* [`apertium-pol-ukr.pol-ukr.t1x`](apertium-pol-ukr.pol-ukr.t1x) - Chunking rules for translating into Ukranian
+* [`apertium-pol-ukr.ukr-pol.t1x`](apertium-pol-ukr.ukr-pol.t1x) - Chunking rules for translating into Polish
+* [`apertium-pol-ukr.pol-ukr.t2x`](apertium-pol-ukr.pol-ukr.t2x) - Interchunk rules for translating into Ukranian
+* [`apertium-pol-ukr.ukr-pol.t2x`](apertium-pol-ukr.ukr-pol.t2x) - Interchunk rules for translating into Polish
+* [`apertium-pol-ukr.pol-ukr.t3x`](apertium-pol-ukr.pol-ukr.t3x) - Postchunk rules for translating into Ukranian
+* [`apertium-pol-ukr.ukr-pol.t3x`](apertium-pol-ukr.ukr-pol.t3x) - Postchunk rules for translating into Polish
+* [`apertium-pol-ukr.pol-ukr.lrx`](apertium-pol-ukr.pol-ukr.lrx) - Lexical selection rules for translating into Ukranian
+* [`apertium-pol-ukr.ukr-pol.lrx`](apertium-pol-ukr.ukr-pol.lrx) - Lexical selection rules for translating into Polish
+* [`modes.xml`](modes.xml) - Translation modes
+
+For more information
+-------------------------------------------------------------------------------
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/apertium-pol-ukr
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+
+Help and support
+-------------------------------------------------------------------------------
+
+If you need help using this language pair or data, you can contact:
+
+* Mailing list: apertium-stuff@lists.sourceforge.net
+* IRC: `#apertium` on irc.freenode.net (irc://irc.freenode.net/#apertium)
+
+See also the file [`AUTHORS`](AUTHORS), included in this distribution.
