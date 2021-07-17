@@ -1,0 +1,10 @@
+{
+    "pol-ukr-pending": {
+        "input": "pol-ukr-pending-input.txt",
+        "mode": "pol-ukr"
+    },
+    "ukr-pol-pending": {
+        "input": "ukr-pol-pending-input.txt",
+        "mode": "ukr-pol"
+    }
+}

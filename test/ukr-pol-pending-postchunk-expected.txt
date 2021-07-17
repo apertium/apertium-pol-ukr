@@ -1,0 +1,28 @@
+[1URsXFQwu5dv#0] ^ławka<n><f><pl><nom>$^.<sent>$
+[/1URsXFQwu5dv]
+[26DrOOKKXc-L#0] ^być<vbser><neg><pres><p3><sg>$ ^*курчати$^.<sent>$
+[/26DrOOKKXc-L]
+[5ndyBZvT0CAF#0] ^*матері$^.<sent>$
+[/5ndyBZvT0CAF]
+[8l_lbfJgtgU0#0] ^*мати$^.<sent>$
+[/8l_lbfJgtgU0]
+[Hmv8LsmNuPYu#0] ^*їв$ ^*би$^.<sent>$
+[/Hmv8LsmNuPYu]
+[J2Z_50m6CkkY#0] ^być<vbser><neg><pres><p3><sg>$ ^oko<n><nt><sg><gen>$^.<sent>$
+[/J2Z_50m6CkkY]
+[LtaEBpeVuGe-#0] ^ławka<n><f><sg><nom>$^.<sent>$
+[/LtaEBpeVuGe-]
+[VAQgWCmmUECD#0] ^*їстиму$^.<sent>$
+[/VAQgWCmmUECD]
+[WGeFWfgdGBSk#0] ^*бачу$ ^ławka<n><f><sg><acc>$^.<sent>$
+[/WGeFWfgdGBSk]
+[WKQb7-vsu3Wt#0] ^*їв$^.<sent>$
+[/WKQb7-vsu3Wt]
+[ZlrfTutBUDCe#0] ^*їжте$^.<sent>$
+[/ZlrfTutBUDCe]
+[lPnK3tON1HWh#0] ^*курча$^.<sent>$
+[/lPnK3tON1HWh]
+[xF_JxcTzfs9K#0] ^oko<n><nt><sg><nom>$^.<sent>$
+[/xF_JxcTzfs9K]
+[yNOKOAyU71-R#0] ^*бачу$ ^*матір$^.<sent>$
+[/yNOKOAyU71-R]

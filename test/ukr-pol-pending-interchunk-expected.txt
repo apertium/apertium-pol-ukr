@@ -1,0 +1,28 @@
+[1URsXFQwu5dv#0] ^nom<SN><f><pl><nom>{^ławka<n><2><3><4>$}$^default<default>{^.<sent>$}$
+[/1URsXFQwu5dv]
+[26DrOOKKXc-L#0] ^default<default>{^być<vbser><neg><pres><p3><sg>$}$ ^unknown<unknown>{^*курчати$}$^default<default>{^.<sent>$}$
+[/26DrOOKKXc-L]
+[5ndyBZvT0CAF#0] ^unknown<unknown>{^*матері$}$^default<default>{^.<sent>$}$
+[/5ndyBZvT0CAF]
+[8l_lbfJgtgU0#0] ^unknown<unknown>{^*мати$}$^default<default>{^.<sent>$}$
+[/8l_lbfJgtgU0]
+[Hmv8LsmNuPYu#0] ^unknown<unknown>{^*їв$}$ ^unknown<unknown>{^*би$}$^default<default>{^.<sent>$}$
+[/Hmv8LsmNuPYu]
+[J2Z_50m6CkkY#0] ^default<default>{^być<vbser><neg><pres><p3><sg>$}$ ^nom<SN><nt><sg><gen>{^oko<n><2><3><4>$}$^default<default>{^.<sent>$}$
+[/J2Z_50m6CkkY]
+[LtaEBpeVuGe-#0] ^nom<SN><f><sg><nom>{^ławka<n><2><3><4>$}$^default<default>{^.<sent>$}$
+[/LtaEBpeVuGe-]
+[VAQgWCmmUECD#0] ^unknown<unknown>{^*їстиму$}$^default<default>{^.<sent>$}$
+[/VAQgWCmmUECD]
+[WGeFWfgdGBSk#0] ^unknown<unknown>{^*бачу$}$ ^nom<SN><f><sg><acc>{^ławka<n><2><3><4>$}$^default<default>{^.<sent>$}$
+[/WGeFWfgdGBSk]
+[WKQb7-vsu3Wt#0] ^unknown<unknown>{^*їв$}$^default<default>{^.<sent>$}$
+[/WKQb7-vsu3Wt]
+[ZlrfTutBUDCe#0] ^unknown<unknown>{^*їжте$}$^default<default>{^.<sent>$}$
+[/ZlrfTutBUDCe]
+[lPnK3tON1HWh#0] ^unknown<unknown>{^*курча$}$^default<default>{^.<sent>$}$
+[/lPnK3tON1HWh]
+[xF_JxcTzfs9K#0] ^nom<SN><nt><sg><nom>{^oko<n><2><3><4>$}$^default<default>{^.<sent>$}$
+[/xF_JxcTzfs9K]
+[yNOKOAyU71-R#0] ^unknown<unknown>{^*бачу$}$ ^unknown<unknown>{^*матір$}$^default<default>{^.<sent>$}$
+[/yNOKOAyU71-R]

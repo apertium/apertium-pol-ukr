@@ -1,0 +1,28 @@
+[1URsXFQwu5dv#0] ^лавки/лавка<n><f><nn><sg><gen>/лавка<n><f><nn><pl><nom>/лавка<n><f><nn><pl><acc>/лавка<n><f><nn><pl><voc>$^./.<sent>$
+[/1URsXFQwu5dv]
+[26DrOOKKXc-L#0] ^нема/бути<vbser><neg><pres><p3><sg>$ ^курчати/*курчати$^./.<sent>$
+[/26DrOOKKXc-L]
+[5ndyBZvT0CAF#0] ^матері/*матері$^./.<sent>$
+[/5ndyBZvT0CAF]
+[8l_lbfJgtgU0#0] ^мати/*мати$^./.<sent>$
+[/8l_lbfJgtgU0]
+[Hmv8LsmNuPYu#0] ^їв/*їв$ ^би/*би$^./.<sent>$
+[/Hmv8LsmNuPYu]
+[J2Z_50m6CkkY#0] ^нема/бути<vbser><neg><pres><p3><sg>$ ^ока/око<n><nt><nn><sg><gen>$^./.<sent>$
+[/J2Z_50m6CkkY]
+[LtaEBpeVuGe-#0] ^лавка/лавка<n><f><nn><sg><nom>$^./.<sent>$
+[/LtaEBpeVuGe-]
+[VAQgWCmmUECD#0] ^їстиму/*їстиму$^./.<sent>$
+[/VAQgWCmmUECD]
+[WGeFWfgdGBSk#0] ^бачу/*бачу$ ^лавку/лавка<n><f><nn><sg><acc>$^./.<sent>$
+[/WGeFWfgdGBSk]
+[WKQb7-vsu3Wt#0] ^їв/*їв$^./.<sent>$
+[/WKQb7-vsu3Wt]
+[ZlrfTutBUDCe#0] ^їжте/*їжте$^./.<sent>$
+[/ZlrfTutBUDCe]
+[lPnK3tON1HWh#0] ^курча/*курча$^./.<sent>$
+[/lPnK3tON1HWh]
+[xF_JxcTzfs9K#0] ^око/око<n><nt><nn><sg><nom>/око<n><nt><nn><sg><acc>/око<n><nt><nn><sg><voc>$^./.<sent>$
+[/xF_JxcTzfs9K]
+[yNOKOAyU71-R#0] ^бачу/*бачу$ ^матір/*матір$^./.<sent>$
+[/yNOKOAyU71-R]
